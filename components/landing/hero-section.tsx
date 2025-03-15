@@ -20,7 +20,7 @@ export default function HeroSection() {
         Open Source AI is
         <br className="hidden md:block" /> Changing the Game
       </h1>
-      <p><strong><i>Embrace the Revolution</i></strong></p>
+      <p><strong><i>Join the Rebellion</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         Secure your data, escape lock-in, and equip your team
         <br className="hidden md:block" /> with <i>new gen</i> OSAI models and tools for pennies on the dollar
