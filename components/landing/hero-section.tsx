@@ -21,7 +21,7 @@ export default function HeroSection() {
         <br className="hidden md:block" /> AI Revolution
       </h1>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Protect your data, escape lock-in, and empower your team
+        Secure your data, escape lock-in, and empower your team
         <br className="hidden md:block" /> with cutting-edge AI use cases <i>for pennies on the dollar</i>
       </p>
       <div className="backdrop-filter-[12px] inline-flex h-7 items-center justify-between rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white dark:text-black transition-all ease-in hover:cursor-pointer hover:bg-white/20 group gap-1 translate-y-[-1rem] animate-fade-in opacity-0">
