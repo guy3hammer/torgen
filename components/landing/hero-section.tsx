@@ -18,11 +18,11 @@ export default function HeroSection() {
 
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
         Open Source AI is
-        <br>Changing the Game
+        <br> Changing the Game</br>
       </h1>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        <strong>Join the Revolution</strong><br>
-        <br className="hidden md:block" />Secure your data, escape lock-in, and empower your team
+        <br><strong>Join the Revolution</strong></br>
+        Secure your data, escape lock-in, and empower your team
         <br className="hidden md:block" /> with cutting-edge AI use cases <i>for pennies on the dollar</i>
       </p>
       <div className="backdrop-filter-[12px] inline-flex h-7 items-center justify-between rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white dark:text-black transition-all ease-in hover:cursor-pointer hover:bg-white/20 group gap-1 translate-y-[-1rem] animate-fade-in opacity-0">
