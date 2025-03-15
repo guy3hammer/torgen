@@ -15,11 +15,12 @@ export default function HeroSection() {
       id="hero"
       className="relative mx-auto mt-32 max-w-[80rem] px-6 text-center md:px-8"
     >
-      <div><strong>Join the Revolution</strong></div>
+      
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
         Open Source AI is
         <br className="hidden md:block" /> Changing the Game
       </h1>
+      <p><strong>Embrace the Revolution</strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         Secure your data, escape lock-in, and equip your team
         <br className="hidden md:block" /> with best-in-class AI use cases for pennies on the dollar
