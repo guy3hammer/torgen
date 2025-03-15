@@ -22,7 +22,8 @@ export default function HeroSection() {
         </TextShimmer>
       </div>
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
-        Embrace the <i>Open Source</i>
+        Embrace the
+        <br className="hidden md:block" /><i>Open Source</i>
         <br className="hidden md:block" />AI Revolution
       </h1>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
