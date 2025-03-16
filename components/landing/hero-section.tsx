@@ -46,10 +46,11 @@ export default function HeroSection() {
                 />
               </li>
               <li>
-                <img
-                  src={`https://cdn.magicui.design/companies/Microsoft.svg`}
+                  <img
+                  src="/mistral-logo.png"
+                  alt="Mistral Logo Image"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
+                  />
               </li>
               <li>
                 <img
