@@ -1,14 +1,12 @@
 "use client";
 
+import Image from 'next/image';
 import { BorderBeam } from "@/components/magicui/border-beam";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { Button } from "@/components/ui/button";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
-import PytorchSvg from 'public/pytorch-logo.svg';
-import TensorflowSvg from 'public/tensorflow-logo.svg';
-import n8nSvg from 'public/n8n-logo.svg';
 
 export default function HeroSection() {
   const ref = useRef(null);
@@ -42,13 +40,41 @@ export default function HeroSection() {
           </h2>
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
+		    
               <li>
+	          <img
+           		src="/pytorch-logo.svg" 
+           		alt="pytorch logo Image"
+        	  />
+		   </li> 
+
+		                  <li>
+	          <img
+           		src="/tensorflow-logo.svg" 
+           		alt="tensorflow logo Image"
+        	  />
+		   </li> 
+
+		                  <li>
+	          <img
+           		src="/n8n-logo.svg" 
+           		alt="n8n logo Image"
+        	  />
+		   </li> 
+		    
+		    <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
-              
+
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+		    
               <li>
                 <img
                   src={`https://drive.google.com/file/d/1_WS-9tLC_-NsnibWX1cFsL0gZ6SwE-8z/view?usp=sharing`}
@@ -81,35 +107,6 @@ export default function HeroSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
-
-					<li>
-						<img
-							alt="Pytorch"
-							src={PytorchSvg}
-							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-							width={28}
-							height={8}
-						/>
-					</li>
-					<li>
-						<img
-							alt="Tensorflow"
-							src={TensorflowSvg}
-							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-							width={28}
-							height={8}
-						/>
-					</li>
-
-					<li>
-						<img
-							alt="n8n-logo"
-							src={n8nSvg}
-							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-							width={28}
-							height={8}
-						/>
-					</li>
               
             </ul>
           </div>
