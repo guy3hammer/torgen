@@ -22,8 +22,8 @@ export default function HeroSection() {
       </h1>
       <p><strong><i>Resist Proprietary Lock-in</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Control your data and avoid lock-in by equiping your team
-        <br className="hidden md:block" /> with the <i>new gen</i> Open Source AI models and tools
+        Take control your destiny <i>and data</i> by adopting an
+        <br className="hidden md:block" /> <i>OSAI-First</i> strategy for your organization
       </p>
 
           <div className="mt-6">
