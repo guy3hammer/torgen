@@ -109,10 +109,16 @@ export default function HeroSection() {
             </ul>
           </div>
 
-	              <h2 className="text-center text-sm font-semibold text-gray-600">
-            Secure your data, escape lock-in, and equip your team
-        <br className="hidden md:block" /> with cutting-edge AI use cases for pennies on the dollar
-          </h2>
+		<h2 className="text-center text-sm font-semibold text-gray-600">
+			      	<br>
+			      	<by>
+			      	<br>
+				<br>
+				<br>
+				<br>
+           	 Secure your data, escape lock-in, and equip your team
+       		 <br className="hidden md:block" /> with cutting-edge AI use cases for pennies on the dollar
+          	</h2>
 		    
       <div
         ref={ref}
