@@ -1,5 +1,7 @@
 "use client";
 
+import TextShimmer from "@/components/magicui/text-shimmer";
+import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { AnimatePresence, motion } from "framer-motion";
