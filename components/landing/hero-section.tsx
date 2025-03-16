@@ -22,7 +22,13 @@ export default function HeroSection() {
       </h1>
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Control your destiny. Adopt an <i>OSAI-First</i> strategy.</p>
+                <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+	      Control your destiny. Adopt an <i>OSAI-First</i> strategy.</p>
 
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
