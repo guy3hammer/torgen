@@ -262,12 +262,6 @@ export default function HeroSection() {
 <br></br>
 			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4></div>
 
-
-			        <TextShimmer className="inline-flex items-center justify-center">
-          <span>✨ Book a Call</span>{" "}
-          <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
-        </TextShimmer>
-
 			
 				<br></br>
 				<br></br>
@@ -315,10 +309,6 @@ export default function HeroSection() {
 				<div><p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
 
 		</div> 	
-
-
-	    
- 
     </section>
   );
 }
