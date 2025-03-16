@@ -1,6 +1,5 @@
 "use client";
 
-import Image from 'next/image';
 import { BorderBeam } from "@/components/magicui/border-beam";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { Button } from "@/components/ui/button";
@@ -41,53 +40,36 @@ export default function HeroSection() {
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
 		    
-              <li>
+              	<li>
 	          <img
-           		src="/pytorch-logo.svg" 
-           		alt="pytorch logo Image"
+           		src={'/pytorch-logo.svg'} 
+           		className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
         	  />
-		   </li> 
-
-		                  <li>
-	          <img
-           		src="/tensorflow-logo.svg" 
-           		alt="tensorflow logo Image"
-        	  />
-		   </li> 
-
-		                  <li>
-	          <img
-           		src="/n8n-logo.svg" 
-           		alt="n8n logo Image"
-        	  />
-		   </li> 
+		</li>
 		    
-		    <li>
+		<li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
-              </li>
-
+              	</li>
+		    
+		<li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
-              </li>
+              	</li>
 		    
-              <li>
-                <img
-                  src={`https://drive.google.com/file/d/1_WS-9tLC_-NsnibWX1cFsL0gZ6SwE-8z/view?usp=sharing`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
+
               <li>
                   <img
-                  src="/hf-logo.png" 
+                  src="/hf-logo.svg" 
                   alt="Hugging Face Logo Image"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                   />
               </li>
+		    
               <li>
                 <img
                   src={`https://docs.mistral.ai/img/logo.svg`}
@@ -101,6 +83,7 @@ export default function HeroSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+		    
               <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg`}
