@@ -109,15 +109,16 @@ export default function HeroSection() {
             </ul>
           </div>
 
-      <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
+      <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         <br></br>
         <br></br>
         <br></br>
         <br></br>
-	Take control your company's destiny
-        <br className="hidden md:block" /> by adopting an <i>OSAI-First</i> strategy
+        <br></br>
+        <br></br>
+	Escape lock-in and equip your team with proven 
+        <br className="hidden md:block" /> cutting-edge AI use cases for pennies on the dollar
       </p>
-
 		    
       <div
         ref={ref}
