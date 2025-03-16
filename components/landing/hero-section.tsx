@@ -22,7 +22,7 @@ export default function HeroSection() {
       </h1>
       <p><strong><i>Resist Proprietary Lock-in</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Take control your destiny <i>and data</i> by adopting an
+        Take control your destiny by adopting an
         <br className="hidden md:block" /> <i>OSAI-First</i> strategy for your organization
       </p>
 
