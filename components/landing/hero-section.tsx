@@ -26,11 +26,6 @@ export default function HeroSection() {
         <br className="hidden md:block" /> with the <i>new gen</i> Open Source AI models and tools
       </p>
 
-      <div className="py-14">
-        <div className="mx-auto max-w-screen-xl px-4 md:px-8">
-          <h2 className="text-center text-sm font-semibold text-gray-600">
-            TRUSTED BY TEAMS FROM AROUND THE WORLD
-          </h2>
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
 		    
@@ -87,8 +82,6 @@ export default function HeroSection() {
               
             </ul>
           </div>
-        </div>
-      </div>
       
       <div
         ref={ref}
