@@ -20,7 +20,7 @@ export default function HeroSection() {
         Open Source AI is
         <br className="hidden md:block" /> Changing the Game
       </h1>
-      <p><strong><i>Resist Proprietary AI Lock-in</i></strong></p>
+      <p><strong><i>Resist Proprietary Lock-in</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         Control your data and avoid lock-in by equiping your team
         <br className="hidden md:block" /> with the <i>new gen</i> Open Source AI models and tools
