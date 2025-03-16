@@ -105,29 +105,14 @@ export function SiteHeader() {
             Torgen AI
           </Link>
 
-          <div className="ml-auto flex h-full items-center">
-            
-            <Link
-              className={cn(
-                buttonVariants({ variant: "secondary" }),
-                "mr-6 text-sm"
-              )}
-              href="/signup"
-            >
+          <Link className="text-md flex items-center" href="/">
         <TextShimmer className="inline-flex items-center justify-center">
           <span>✨ Talk with an expert</span>{" "}
           <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
         </TextShimmer>
               
             </Link>
-          </div>
-          <button
-            className="ml-6 md:hidden"
-            onClick={() => setHamburgerMenuIsOpen((open) => !open)}
-          >
-            <span className="sr-only">Toggle menu</span>
-            {hamburgerMenuIsOpen ? <XIcon /> : <AlignJustify />}
-          </button>
+         
         </div>
       </header>
       <AnimatePresence>
