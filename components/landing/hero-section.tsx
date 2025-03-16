@@ -23,14 +23,8 @@ export default function HeroSection() {
       <p><strong><i>Join the Rebellion</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         Control your data and avoid lock-in by equiping your team
-        <br className="hidden md:block" /> with the <i>new gen</i> OSAI models and tools
+        <br className="hidden md:block" /> with the <i>new gen</i> Open Source AI models and tools
       </p>
-      <div className="backdrop-filter-[12px] inline-flex h-7 items-center justify-between rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white dark:text-black transition-all ease-in hover:cursor-pointer hover:bg-white/20 group gap-1 translate-y-[-1rem] animate-fade-in opacity-0">
-        <TextShimmer className="inline-flex items-center justify-center">
-          <span>✨ Talk with an expert</span>{" "}
-          <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
-        </TextShimmer>
-      </div>
 
       <div className="py-14">
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
