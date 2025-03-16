@@ -112,7 +112,11 @@ export function SiteHeader() {
               )}
               href="/signup"
             >
-              Contact
+        <TextShimmer className="inline-flex items-center justify-center">
+          <span>✨ Talk with an expert</span>{" "}
+          <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
+        </TextShimmer>
+              
             </Link>
           </div>
           <button
