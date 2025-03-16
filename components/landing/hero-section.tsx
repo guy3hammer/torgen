@@ -22,8 +22,8 @@ export default function HeroSection() {
       </h1>
       <p><strong><i>Join the Rebellion</i></strong></p>
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Secure your data, escape lock-in, and equip your team
-        <br className="hidden md:block" /> with <i>new gen</i> OSAI models and tools for pennies on the dollar
+        Control your data and avoid lock-in by equiping your team
+        <br className="hidden md:block" /> with the <i>new gen</i> OSAI models and tools
       </p>
       <div className="backdrop-filter-[12px] inline-flex h-7 items-center justify-between rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white dark:text-black transition-all ease-in hover:cursor-pointer hover:bg-white/20 group gap-1 translate-y-[-1rem] animate-fade-in opacity-0">
         <TextShimmer className="inline-flex items-center justify-center">
