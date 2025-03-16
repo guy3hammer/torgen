@@ -45,10 +45,17 @@ export default function HeroSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+              
+              <li>
+                <img
+                  src={`https://drive.google.com/file/d/1_WS-9tLC_-NsnibWX1cFsL0gZ6SwE-8z/view?usp=sharing`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
               <li>
                   <img
-                  src="/mistral-logo.png"
-                  alt="Mistral Logo Image"
+                  src="/hf-logo.png" 
+                  alt="Hugging Face Logo Image"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                   />
               </li>
