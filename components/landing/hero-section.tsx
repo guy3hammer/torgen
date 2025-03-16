@@ -23,7 +23,7 @@ export default function HeroSection() {
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         Take control of your destiny.
-        <br>Adopt an <i>OSAI-First</i> strategy.
+        <br>Adopt an <i>OSAI-First</i> strategy.</br>
       </p>
 
           <div className="mt-6">
