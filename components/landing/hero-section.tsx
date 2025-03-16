@@ -110,12 +110,10 @@ export default function HeroSection() {
           </div>
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        <br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
 	Take control your company's destiny
         <br className="hidden md:block" /> by adopting an <i>OSAI-First</i> strategy
       </p>
