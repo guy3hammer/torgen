@@ -31,55 +31,69 @@ export default function HeroSection() {
 		    
               	<li>
 	          <img
-           		src={'/pytorch-logo.svg'} 
+           		src={'/deepseek-logo.svg'} 
            		className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
         	  />
 		</li>
 		    
 		<li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+           		src={'/mistral-logo.svg'} 
+           		className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               	</li>
 		    
 		<li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
+                  src={'/hf-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               	</li>
 		    
-
-              <li>
-                  <img
-                  src="/hf-logo.svg" 
-                  alt="Hugging Face Logo Image"
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                  />
-              </li>
-		    
               <li>
                 <img
-                  src={`https://docs.mistral.ai/img/logo.svg`}
+                  src={'/qwen-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Uber.svg`}
+                  src={'/baidu-svg.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 		    
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg`}
+                  src={'/n8n-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
-              
+
+              <li>
+                <img
+                  src={'/n8n-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+		    
+              <li>
+                <img
+                  src={'/n8n-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+              <li>
+                <img
+                  src={'/n8n-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+		    
+		    
+		    
             </ul>
           </div>
       
