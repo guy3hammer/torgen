@@ -22,7 +22,7 @@ export default function HeroSection() {
       </h1>
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Take control of your company's destiny
+        Take control of your destiny
         <br className="hidden md:block" /> by adopting an <i>OSAI-First</i> strategy
       </p>
 
@@ -116,8 +116,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Escape lock-in and equip your team with proven
-        <br className="hidden md:block" /> AI use cases for pennies on the dollar
+	Equip your team with proven AI use cases
+        <br className="hidden md:block" /> for pennies on the dollar
       </p>
 		    
       <div
