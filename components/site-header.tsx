@@ -100,13 +100,11 @@ export function SiteHeader() {
       <header className="fixed left-0 top-0 z-50 w-full translate-y-[-1rem] animate-fade-in border-b opacity-0 backdrop-blur-[12px] [--animation-delay:600ms]">
         <div className="container flex h-[3.5rem] items-center justify-between">
           <Link className="text-md flex items-center" href="/">
-            Magic UI
+            Torgen AI
           </Link>
 
-          <div className="ml-auto flex h-full items-center">
-            <Link className="mr-6 text-sm" href="/signin">
-              Log in
-            </Link>
+          <div className="ml-auto flex h-full items-right">
+            
             <Link
               className={cn(
                 buttonVariants({ variant: "secondary" }),
@@ -114,7 +112,7 @@ export function SiteHeader() {
               )}
               href="/signup"
             >
-              Sign up
+              Contact
             </Link>
           </div>
           <button
