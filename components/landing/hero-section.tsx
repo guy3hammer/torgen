@@ -108,8 +108,6 @@ export default function HeroSection() {
 		    
             </ul>
           </div>
-
-	    <div>
 <br>
 <br>
 <br>
@@ -120,7 +118,6 @@ export default function HeroSection() {
             Secure your data, escape lock-in, and equip your team
         <br className="hidden md:block" /> with cutting-edge AI use cases for pennies on the dollar
           </h2>
-	</div>
 		    
       <div
         ref={ref}
