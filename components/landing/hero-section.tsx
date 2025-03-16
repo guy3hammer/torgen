@@ -41,7 +41,7 @@ export default function HeroSection() {
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg`}
+                  src={`https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -66,7 +66,7 @@ export default function HeroSection() {
               </li>
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Notion.svg`}
+                  src={`https://upload.wikimedia.org/wikipedia/en/f/f4/Baidu.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
