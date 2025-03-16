@@ -31,6 +31,50 @@ export default function HeroSection() {
           <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
         </TextShimmer>
       </div>
+
+      <div className="py-14">
+        <div className="mx-auto max-w-screen-xl px-4 md:px-8">
+          <h2 className="text-center text-sm font-semibold text-gray-600">
+            TRUSTED BY TEAMS FROM AROUND THE WORLD
+          </h2>
+          <div className="mt-6">
+            <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
+              <li>
+                <img
+                  src={`https://cdn.magicui.design/companies/Google.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+              <li>
+                <img
+                  src={`https://cdn.magicui.design/companies/Microsoft.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+              <li>
+                <img
+                  src={`https://cdn.magicui.design/companies/GitHub.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+              <li>
+                <img
+                  src={`https://cdn.magicui.design/companies/Uber.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+              <li>
+                <img
+                  src={`https://cdn.magicui.design/companies/Notion.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
       <div
         ref={ref}
         className="relative mt-[8rem] animate-fade-up opacity-0 [--animation-delay:400ms] [perspective:2000px] after:absolute after:inset-0 after:z-50 after:[background:linear-gradient(to_top,hsl(var(--background))_30%,transparent)]"
