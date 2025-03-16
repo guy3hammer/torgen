@@ -127,17 +127,44 @@ export default function HeroSection() {
           />
 
           <img
-            src="/hero-dark.png"
-            alt="Hero Image"
+            src="/appops-dark.png"
+            alt="App Ops Image"
             className="hidden relative w-full h-full rounded-[inherit] border object-contain dark:block"
           />
           <img
-            src="/hero-light.png"
-            alt="Hero Image"
+            src="/appops-light.png"
+            alt="App Ops Image"
             className="block relative w-full h-full  rounded-[inherit] border object-contain dark:hidden"
           />
         </div>
       </div>
+
+
+        <div
+          className={`rounded-xl border border-white/10 bg-white bg-opacity-[0.01] before:absolute before:bottom-1/2 before:left-0 before:top-0 before:h-full before:w-full before:opacity-0 before:[filter:blur(180px)] before:[background-image:linear-gradient(to_bottom,var(--color-one),var(--color-one),transparent_40%)] ${
+            inView ? "before:animate-image-glow" : ""
+          }`}
+        >
+          <BorderBeam
+            size={200}
+            duration={12}
+            delay={11}
+            colorFrom="var(--color-one)"
+            colorTo="var(--color-two)"
+          />
+
+          <img
+            src="/itops-dark.png"
+            alt="IT Ops Image"
+            className="hidden relative w-full h-full rounded-[inherit] border object-contain dark:block"
+          />
+          <img
+            src="/itops-light.png"
+            alt="IT Ops Image"
+            className="block relative w-full h-full  rounded-[inherit] border object-contain dark:hidden"
+          />
+        </div>
+	    
     </section>
   );
 }
