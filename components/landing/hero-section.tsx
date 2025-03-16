@@ -108,12 +108,7 @@ export default function HeroSection() {
 		    
             </ul>
           </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 	              <h2 className="text-center text-sm font-semibold text-gray-600">
             Secure your data, escape lock-in, and equip your team
         <br className="hidden md:block" /> with cutting-edge AI use cases for pennies on the dollar
