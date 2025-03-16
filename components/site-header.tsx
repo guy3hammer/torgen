@@ -107,7 +107,7 @@ export function SiteHeader() {
 
           <Link className="text-md flex items-center" href="/">
         <TextShimmer className="inline-flex items-center justify-center">
-          <span>✨ Join the Rebellion</span>{" "}
+          <span>✨ Book a Call</span>{" "}
           <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
         </TextShimmer>
               
