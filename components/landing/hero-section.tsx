@@ -59,7 +59,7 @@ export default function HeroSection() {
 
               <li>
                 <img
-                  src={'/baidu-svg.svg'}
+                  src={'/baidu-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -73,26 +73,38 @@ export default function HeroSection() {
 
               <li>
                 <img
-                  src={'/n8n-logo.svg'}
+                  src={'/ollama-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 		    
               <li>
                 <img
-                  src={'/n8n-logo.svg'}
+                  src={'/llama-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
               <li>
                 <img
-                  src={'/n8n-logo.svg'}
+                  src={'/pytorch-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 		    
-		    
+              <li>
+                <img
+                  src={'/tensorflow-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+              <li>
+                <img
+                  src={'/gemma-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
 		    
             </ul>
           </div>
