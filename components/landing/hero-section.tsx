@@ -54,7 +54,7 @@ export default function HeroSection() {
               </li>
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/GitHub.svg`}
+                  src={`https://docs.mistral.ai/img/logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
