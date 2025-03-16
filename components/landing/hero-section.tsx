@@ -6,9 +6,9 @@ import { Button } from "@/components/ui/button";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
-import PytorchSvg from '$public/pytorch-logo.svg';
-import TensorflowSvg from '$public/tensorflow-logo.svg';
-import n8nSvg from '$public/n8n-logo.svg';
+import PytorchSvg from 'public/pytorch-logo.svg';
+import TensorflowSvg from 'public/tensorflow-logo.svg';
+import n8nSvg from 'public/n8n-logo.svg';
 
 export default function HeroSection() {
   const ref = useRef(null);
