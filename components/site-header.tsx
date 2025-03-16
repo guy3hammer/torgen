@@ -103,7 +103,7 @@ export function SiteHeader() {
             Torgen AI
           </Link>
 
-          <div className="ml-auto flex h-full items-right">
+          <div className="ml-auto flex h-full items-center">
             
             <Link
               className={cn(
