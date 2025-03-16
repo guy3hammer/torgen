@@ -22,8 +22,8 @@ export default function HeroSection() {
       </h1>
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Take control your destiny by adopting an
-        <br className="hidden md:block" /> <i>OSAI-First</i> strategy for your organization
+        Take control your company's destiny
+        <br className="hidden md:block" /> by adopting an <i>OSAI-First</i> strategy
       </p>
 
           <div className="mt-6">
@@ -109,11 +109,13 @@ export default function HeroSection() {
             </ul>
           </div>
 
+	    <div>
 	              <h2 className="text-center text-sm font-semibold text-gray-600">
             Empower your team with cutting-edge AI
         <br className="hidden md:block" /> use cases for pennies on the dollar
           </h2>
-      
+	</div>
+		    
       <div
         ref={ref}
         className="relative mt-[8rem] animate-fade-up opacity-0 [--animation-delay:400ms] [perspective:2000px] after:absolute after:inset-0 after:z-50 after:[background:linear-gradient(to_top,hsl(var(--background))_30%,transparent)]"
