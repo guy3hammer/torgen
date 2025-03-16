@@ -6,6 +6,9 @@ import { Button } from "@/components/ui/button";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
+import PytorchSvg from '$public/pytorch-logo.svg';
+import TensorflowSvg from '$public/tensorflow-logo.svg';
+import n8nSvg from '$public/n8n-logo.svg';
 
 export default function HeroSection() {
   const ref = useRef(null);
@@ -78,6 +81,36 @@ export default function HeroSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+
+					<li>
+						<img
+							alt="Pytorch"
+							src={PytorchSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+					<li>
+						<img
+							alt="Tensorflow"
+							src={TensorflowSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+
+					<li>
+						<img
+							alt="n8n-logo"
+							src={n8nSvg}
+							class="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+							width={28}
+							height={8}
+						/>
+					</li>
+              
             </ul>
           </div>
         </div>
