@@ -122,7 +122,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
 	Equip your team with proven AI use cases
-        <br className="hidden md:block" /> for pennies on the dollar
+        <br className="hidden md:block" /> for pennies on the dollar.
       </p>
 		    
       <div
