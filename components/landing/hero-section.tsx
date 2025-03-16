@@ -22,7 +22,7 @@ export default function HeroSection() {
       </h1>
 
       <p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        Rescue control your company's destiny
+        Control your company's destiny
         <br className="hidden md:block" /> by adopting an <i>OSAI-First</i> strategy
       </p>
 
