@@ -29,5 +29,3 @@ import TextShimmer from "@/components/magicui/text-shimmer";
 
       </div>
     </section>
-  );
-}
