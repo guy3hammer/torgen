@@ -9,6 +9,10 @@ export default function ClientSection() {
           <h2 className="text-center text-sm font-semibold text-gray-600">
             CONNECT ANYTHING TO EVERYTHING
           </h2>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>         
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
               
