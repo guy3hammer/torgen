@@ -245,32 +245,6 @@ export default function HeroSection() {
           />
         </div>
 	</div>
-
-	<div class="mx-auto flex max-w-screen-xl flex-col gap-8 px-4 py-14 md:px-8">
-		<div class="mx-auto max-w-5xl text-center">
-			
-			<h3 class="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
-				World Class Resources
-			</h3>
-
-			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>Open-Source-first</i> approach to AI transformation is led by US-baseed experts proven track records for innovation spanning finance, healthcare, manufacturing, logistics, retail/e-comm, digital media and SaaS
-			</p>
-		</div>
-		
-		<h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4>
-				<br></br>
-				<br></br>
-
-			      	<div> 
-			          <p><strong>AI Workshop/Bootcamp</strong></p>
-			      	</div>
-		
-				<div>
-				<p><i>practical open source centric use case training for</i></p>
-				<p><i>technical and non-technical audiences</i></p>
-				</div>
-	</div>
 	        
 
     </section>
