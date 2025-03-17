@@ -153,7 +153,7 @@ export default function ClientSection() {
 
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg`}
+                  src={`/nvidia-logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>              
