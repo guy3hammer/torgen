@@ -1,4 +1,4 @@
-p"use client";
+"use client";
 
 import { BorderBeam } from "@/components/magicui/border-beam";
 import TextShimmer from "@/components/magicui/text-shimmer";
