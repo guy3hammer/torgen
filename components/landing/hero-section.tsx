@@ -1,7 +1,7 @@
 p"use client";
 
 import { BorderBeam } from "@/components/magicui/border-beam";
-import { TextShimmer } from "@/components/magicui/text-shimmer";
+import TextShimmer from "@/components/magicui/text-shimmer";
 import { Button } from "@/components/ui/button";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { useInView } from "framer-motion";
@@ -262,15 +262,17 @@ export default function HeroSection() {
 		</div>
 				<br></br>
 				<br></br>
+
+			      	<div className="backdrop-filter-[12px] inline-flex h-7 items-center justify-between rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white dark:text-black transition-all ease-in hover:cursor-pointer hover:bg-white/20 group gap-1 translate-y-[-1rem] animate-fade-in opacity-0">
+			        <TextShimmer className="inline-flex items-center justify-center">
+			          <span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
+			        </TextShimmer>
+			      	</div>
 		
-				<div><TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
-				 </TextShimmer>
-				</div>
-		
-				<br></br>
+				<div>
 				<p><<i>practical open source centric use case training for</i></p>
 				<p><i>technical and non-technical audiences</i></p>
+				</div>
 	</div>
 	        
 
