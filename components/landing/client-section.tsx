@@ -38,14 +38,14 @@ export default function ClientSection() {
               </li>
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg`}
+                  src={`https://upload.wikimedia.org/wikipedia/commons/1/1f/SAP_Logo_2014.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg`}
+                  src={`https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/salesforce.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -110,6 +110,41 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+
+                <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+                              <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/9/93/Facebook_logo_%282023%29.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+                              <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+                              <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+              <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>              
                             
               <li>
                 <img
@@ -132,12 +167,7 @@ export default function ClientSection() {
                 />
               </li>
               
-                <li>
-                <img
-                  src={`https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
+
               
 
               
