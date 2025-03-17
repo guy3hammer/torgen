@@ -4,9 +4,10 @@ import Hero2Section from "@/components/landing/hero2-section";
 import Hero3Section from "@/components/landing/hero3-section";
 import Hero4Section from "@/components/landing/hero4-section";
 import ClientSection from "@/components/landing/client-section";
+import { SphereMask } from "@/components/magicui/sphere-mask";
 import Client2Section from "@/components/landing/client2-section";
 import CallToActionSection from "@/components/landing/cta-section";
-import { SphereMask } from "@/components/magicui/sphere-mask";
+
 
 export default async function Page() {
   return (
