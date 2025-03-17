@@ -1,4 +1,4 @@
-"use client";
+p"use client";
 
 import { BorderBeam } from "@/components/magicui/border-beam";
 import TextShimmer from "@/components/magicui/text-shimmer";
@@ -254,12 +254,25 @@ export default function HeroSection() {
 			</h3>
 
 			<p class="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-				Torgen's <i>Open-Source-first</i> approach to AI transformation is driven by US citizens with a proven track record for innovation spanning finance, healthcare, manufacturing, logistics, retail/e-comm, digital media and SaaS
+				Torgen's <i>Open-Source-first</i> approach to AI transformation is led by US-baseed experts proven track records for innovation spanning finance, healthcare, manufacturing, logistics, retail/e-comm, digital media and SaaS
 			</p>
-			</div>
 		</div>
-
-	    
+		
+		<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4>
+		</div>
+				<br></br>
+				<br></br>
+		
+				<div><TextShimmer className="inline-flex items-center justify-center">
+				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
+				 </TextShimmer>
+				</div>
+		
+				<br></br>
+				<p><<i>practical open source centric use case training for</i></p>
+				<p><i>technical and non-technical audiences</i></p>
+	</div>
+	        
 
     </section>
   );
