@@ -24,7 +24,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Take charge of your company's destiny by 
+	      Break free from proprietary AI lock-in by
 	       <br className="hidden md:block" /> adopting an <i>OSAI-first</i> strategy.</p>
         <br></br>
         <br></br>
