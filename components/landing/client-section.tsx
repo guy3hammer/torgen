@@ -130,6 +130,20 @@ export default function ClientSection() {
                 />
               </li>
 
+                <li>
+                <img
+                  src={'/openweather-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+              <li>
+                <img
+                  src={'/openstreetsmap-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
               <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg`}
@@ -150,6 +164,7 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+              
               
             </ul>
           </div>
