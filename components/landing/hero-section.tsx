@@ -119,7 +119,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
 	Equip your team with powerful no-code workflow
-        <br className="hidden md:block" /> automation use cases for pennies on the dollar
+        <br className="hidden md:block" /> automations for pennies on the dollar
       </p>
 		    
       <div
