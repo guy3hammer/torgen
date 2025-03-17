@@ -146,7 +146,7 @@ export default function ClientSection() {
 
               <li>
                 <img
-                  src={'/openstreetmap-logo2.svg'}
+                  src={'/osm-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
