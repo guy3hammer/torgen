@@ -118,8 +118,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Equip your team with powerful no-code AI use cases
-        <br className="hidden md:block" /> in minutes for pennies on the dollar.
+	Equip your team with powerful no-code AI Agent
+        <br className="hidden md:block" /> workflow automations for pennies on the dollar.
       </p>
 		    
       <div
