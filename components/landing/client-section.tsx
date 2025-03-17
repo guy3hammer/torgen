@@ -49,7 +49,7 @@ export default function ClientSection() {
 
               <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg`}
+                  src={`/salesforce-logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -146,7 +146,7 @@ export default function ClientSection() {
 
               <li>
                 <img
-                  src={'/openstreetmaps-logo.svg'}
+                  src={'/openstreetmap-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -188,7 +188,7 @@ export default function ClientSection() {
 
                 <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/8/8b/Grok_logo_%282023-2025%29.svg`}
+                  src={`/grok-logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
