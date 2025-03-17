@@ -132,14 +132,14 @@ export default function ClientSection() {
 
                 <li>
                 <img
-                  src={'/openweather-logo.svg'}
+                  src={'/openweathermap-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
               <li>
                 <img
-                  src={'/openstreetsmap-logo.svg'}
+                  src={'/openstreetmaps-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
