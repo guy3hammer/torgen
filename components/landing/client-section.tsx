@@ -11,21 +11,17 @@ export default function ClientSection() {
           </h2>
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
+              
               <li>
                 <img
                   src={`https://cdn.magicui.design/companies/Google.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+              
               <li>
                 <img
                   src={`https://cdn.magicui.design/companies/Microsoft.svg`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
-              <li>
-                <img
-                  src={`https://cdn.magicui.design/companies/GitHub.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
@@ -36,6 +32,7 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+              
               <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/1/1f/SAP_Logo_2014.svg`}
@@ -45,10 +42,11 @@ export default function ClientSection() {
 
               <li>
                 <img
-                  src={`https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/salesforce.svg`}
+                  src={`https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+              
               <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg`}
@@ -125,14 +123,14 @@ export default function ClientSection() {
                 />
               </li>
 
-                              <li>
+                <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
-                              <li>
+                <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
@@ -145,13 +143,6 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>              
-                            
-              <li>
-                <img
-                  src={`https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
               
               <li>
                 <img
@@ -166,11 +157,6 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
-              
-
-              
-
-              
               
             </ul>
           </div>
