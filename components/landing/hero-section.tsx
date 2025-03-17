@@ -269,8 +269,8 @@ export default function HeroSection() {
 				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
 				 </TextShimmer>
 				</div><br></br>
-				<div><p><span><i>practical open source centric use case training for</i></span></p>
-				<div><p><span><i>technical and non-technical audiences</i></span></p>
+				<p><span><i>practical open source centric use case training for</i></span></p>
+				<p><span><i>technical and non-technical audiences</i></span></p>
 
 				<br></br>
 				<br></br>
@@ -278,8 +278,8 @@ export default function HeroSection() {
 				<span><h2><strong>AI Strategy Consulting</strong></h2></span>
 				 </TextShimmer>
 				</div><br></br>
-				<div><p><span><i>alignment with future state drivers, use case</i></span></p>
-				<div><p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
+				<p><span><i>alignment with future state drivers, use case</i></span></p>
+				<p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
 				
 				<br></br>
 				<br></br>
@@ -287,8 +287,8 @@ export default function HeroSection() {
 				<span><h2><strong>AI Security Assessment</strong></h2></span>
 				 </TextShimmer>
 				</div><br></br>
-				<div><p><span><i>data security, identity/access, logging, governance,</i></span></p>
-				<div><p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
+				<p><span><i>data security, identity/access, logging, governance,</i></span></p>
+				<p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
 
 				<br></br>
 				<br></br>
@@ -296,8 +296,8 @@ export default function HeroSection() {
 				<span><h2><strong>AI Project Consulting</strong></h2></span>
 				 </TextShimmer>
 				</div><br></br>
-				<div><p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
-				<div><p><span><i>legacy code modernization, re-arch, re-platform, migration</i></span></p>
+				<p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
+				<p><span><i>legacy code modernization, re-arch, re-platform, migration</i></span></p>
 
 				<br></br>
 				<br></br>
@@ -305,8 +305,8 @@ export default function HeroSection() {
 				<span><h2><strong>AI Innovation Lab</strong></h2></span>
 				 </TextShimmer>
 				</div><br></br>
-				<div><p><span><i>private managed AI testing environment for new model</i></span></p>
-				<div><p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
+				<p><span><i>private managed AI testing environment for new model</i></span></p>
+				<p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
 
 		</div> 	
     </section>
