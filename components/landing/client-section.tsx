@@ -125,13 +125,6 @@ export default function ClientSection() {
 
                 <li>
                 <img
-                  src={`https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg`}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
-
-                <li>
-                <img
                   src={`https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
