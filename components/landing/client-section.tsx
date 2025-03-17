@@ -18,6 +18,13 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+
+                <li>
+                <img
+                  src={'/apple-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
               
               <li>
                 <img
@@ -88,7 +95,7 @@ export default function ClientSection() {
                 />
               </li>
 
-                            <li>
+                <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
@@ -116,7 +123,7 @@ export default function ClientSection() {
                 />
               </li>
 
-                              <li>
+                <li>
                 <img
                   src={`https://upload.wikimedia.org/wikipedia/commons/9/93/Facebook_logo_%282023%29.svg`}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
@@ -164,7 +171,34 @@ export default function ClientSection() {
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
+
+                <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>              
               
+              <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+                <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/8/8b/Grok_logo_%282023-2025%29.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
+
+                  <li>
+                <img
+                  src={`https://upload.wikimedia.org/wikipedia/commons/1/1d/Perplexity_AI_logo.svg`}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
               
             </ul>
           </div>
