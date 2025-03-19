@@ -13,8 +13,7 @@ export default function ClientSection() {
 			</h2>
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is driven by 
-            US citizens with a proven track record for innovation spanning finance, healthcare, 
+            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by a proven track record for innovation spanning finance, healthcare, 
             manufacturing, logistics, retail/e-comm, digital media and SaaS
 			</p>
 			<br></br>
@@ -30,7 +29,7 @@ export default function ClientSection() {
 				
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
+				<span><h2><strong>OSAI Training Workshop</strong></h2></span>
 				</TextShimmer>
 				</div>
 				
@@ -42,7 +41,7 @@ export default function ClientSection() {
 			
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Strategy Consulting</strong></h2></span>
+				<span><h2><strong>OSAI Strategy Consulting</strong></h2></span>
 				</TextShimmer>
 				</div>
 				
@@ -53,7 +52,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div><TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Security Assessment</strong></h2></span>
+				<span><h2><strong>OSAI Security Assessment</strong></h2></span>
 				</TextShimmer>
 				</div>
 				
@@ -65,7 +64,7 @@ export default function ClientSection() {
 				
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Project Consulting</strong></h2></span>
+				<span><h2><strong>OSAI Project Consulting</strong></h2></span>
 				</TextShimmer>
 				</div>
 				
@@ -77,13 +76,13 @@ export default function ClientSection() {
 				
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Innovation Lab</strong></h2></span>
+				<span><h2><strong>OSAI Innovation Center</strong></h2></span>
 				</TextShimmer>
 				</div>
 				
 				<br></br>
-				<p><span><i>private managed AI testing environment for new model</i></span></p>
-				<p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
+				<p><span><i>private high-performance environment for OSAI model/tool</i></span></p>
+				<p><span><i>provisioning, tuning, testing and use case prototyping</i></span></p>
 				<br></br>
 				<br></br>
 				
