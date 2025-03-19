@@ -3,7 +3,7 @@ import TextShimmer from "@/components/magicui/text-shimmer";
 export default function ClientSection() {
   return (
     <section
-      id="resources"
+      id="clients"
       className="text-center mx-auto max-w-[80rem] px-6 md:px-8"
     >
       <div className="py-14">
@@ -39,8 +39,8 @@ export default function ClientSection() {
 				</TextShimmer>
 				</div>
 				<br></br>
-				<div><p><span><i>alignment with future state drivers, use case</i></span></p>
-				<div><p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
+				<p><span><i>alignment with future state drivers, use case</i></span></p>
+				<p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
 				
 				<br></br>
 				<br></br>
