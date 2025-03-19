@@ -16,7 +16,8 @@ export default function ClientSection() {
           <div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
               
-
+            Test
+              Test
               
             </ul>
           </div>
