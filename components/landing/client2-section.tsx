@@ -37,23 +37,55 @@ export default function ClientSection() {
 				<br></br>
 				<p><span><i>practical open source centric use case training for</i></span></p>
 				<p><span><i>technical and non-technical audiences</i></span></p>
-
 				<br></br>
 				<br></br>
 			
-				<div className="mt-6">
-				<ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
-              
+				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
+				<span><h2><strong>AI Strategy Consulting</strong></h2></span>
 				</TextShimmer>
+				</div>
 				
 				<br></br>
-				<p><span><i>practical open source centric use case training for</i></span></p>
-				<p><span><i>technical and non-technical audiences</i></span></p>
-              
-				</ul>
+				<p><span><i>alignment with future state drivers, use case</i></span></p>
+				<p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
+				<br></br>
+				<br></br>
+				
+				<div><TextShimmer className="inline-flex items-center justify-center">
+				<span><h2><strong>AI Security Assessment</strong></h2></span>
+				</TextShimmer>
 				</div>
+				
+				<br></br>
+				<p><span><i>data security, identity/access, logging, governance,</i></span></p>
+				<p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
+				<br></br>
+				<br></br>
+				
+				<div>
+				<TextShimmer className="inline-flex items-center justify-center">
+				<span><h2><strong>AI Project Consulting</strong></h2></span>
+				</TextShimmer>
+				</div>
+				
+				<br></br>
+				<p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
+				<p><span><i>legacy code modernization, re-arch, re-platform, migration</i></span></p>
+				<br></br>
+				<br></br>
+				
+				<div>
+				<TextShimmer className="inline-flex items-center justify-center">
+				<span><h2><strong>AI Innovation Lab</strong></h2></span>
+				</TextShimmer>
+				</div>
+				
+				<br></br>
+				<p><span><i>private managed AI testing environment for new model</i></span></p>
+				<p><span><i>benchmarking, use case testing and rapid prototyping</i></span></p>
+				<br></br>
+				<br></br>
 				
         </div>
       </div>
