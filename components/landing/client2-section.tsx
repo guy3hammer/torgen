@@ -2,8 +2,7 @@ import TextShimmer from "@/components/magicui/text-shimmer";
 
 export default function ClientSection() {
   return (
-    <section
-      id="clients"
+    <section id="clients"
       className="text-center mx-auto max-w-[80rem] px-6 md:px-8"
     >
       <div className="py-14">
@@ -21,12 +20,12 @@ export default function ClientSection() {
 <br></br>
 <br></br>
 			<div><h4 class="text-xl font-bold tracking-tight text-black dark:text-white">Flexible Solutions for Companies of All Sizes </h4></div>
-				
+		
 				<br></br>
 				<br></br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<div><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>AI Workshop/Bootcamp</strong></h2></span>
-				</AnimatedShinyText>
+				</TextShimmer>
 				</div>
 				<br></br>
 				<p><span><i>practical open source centric use case training for</i></span></p>
@@ -34,9 +33,9 @@ export default function ClientSection() {
 
 				<br></br>
 				<br></br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<div><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>AI Strategy Consulting</strong></h2></span>
-				</AnimatedShinyText>
+				</TextShimmer>
 				</div>
 				<br></br>
 				<div><p><span><i>alignment with future state drivers, use case</i></span></p>
@@ -44,9 +43,9 @@ export default function ClientSection() {
 				
 				<br></br>
 				<br></br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<div><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>AI Security Assessment</strong></h2></span>
-				</AnimatedShinyText>
+				</TextShimmer>
 				</div>
 				<br></br>
 				<p><span><i>data security, identity/access, logging, governance,</i></span></p>
@@ -54,9 +53,9 @@ export default function ClientSection() {
 
 				<br></br>
 				<br></br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<div><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>AI Project Consulting</strong></h2></span>
-				</AnimatedShinyText>
+				</TextShimmer>
 				</div>
 				<br></br>
 				<p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
@@ -64,9 +63,9 @@ export default function ClientSection() {
 
 				<br></br>
 				<br></br>
-				<div><AnimatedShinyText class="inline-flex items-center justify-center">
+				<div><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>AI Innovation Lab</strong></h2></span>
-				</AnimatedShinyText>
+				</TextShimmer>
 				</div>
 				<br></br>
 				<p><span><i>private managed AI testing environment for new model</i></span></p>
