@@ -2,7 +2,8 @@ import TextShimmer from "@/components/magicui/text-shimmer";
 
 export default function ClientSection() {
   return (
-    <section id="clients"
+    <section
+      id="resources"
       className="text-center mx-auto max-w-[80rem] px-6 md:px-8"
     >
       <div className="py-14">
