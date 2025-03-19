@@ -24,7 +24,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Break free from proprietary AI lock-in by
+	      Break free from proprietary lock-in by
 	       <br className="hidden md:block" /> adopting an <i>OSAI-first</i> strategy</p>
         <br></br>
         <br></br>
@@ -118,8 +118,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Control your data and equip your team with powerful
-        <br className="hidden md:block" /> no-code workflow automations at a fraction of the cost
+	Protect your data by equiping your team with <i>private</i>
+        <br className="hidden md:block" /> no-code OSAI workflow automations at 20x lower cost
       </p>
 		    
       <div
