@@ -13,7 +13,7 @@ export default function ClientSection() {
 			</h2>
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-            Torgen's <i>Open-Source-first</i> approach to AI transformation is driven by 
+            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is driven by 
             US citizens with a proven track record for innovation spanning finance, healthcare, 
             manufacturing, logistics, retail/e-comm, digital media and SaaS
 			</p>
