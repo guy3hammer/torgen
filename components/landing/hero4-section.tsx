@@ -46,6 +46,19 @@ export default function HeroSection() {
         </div>
 	</div>       
 
+
+  <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+	Connect <i>Anything</i> to <i>Everything</i>...
+        <br className="hidden md:block" /> <i>more</i> <u>securely</u>
+      </p>
+
+	    
     </section>
   );
 }
