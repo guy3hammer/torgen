@@ -1,4 +1,3 @@
-import AuroraSection from "@/components/landing/aurora-section";
 import Particles from "@/components/magicui/particles";
 import HeroSection from "@/components/landing/hero-section";
 import Hero2Section from "@/components/landing/hero2-section";
@@ -13,7 +12,6 @@ import CallToActionSection from "@/components/landing/cta-section";
 export default async function Page() {
   return (
     <>
-      <AuroraSection />
       <HeroSection />
       <Hero2Section />
       <Hero3Section />
