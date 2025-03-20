@@ -1,5 +1,4 @@
 import AnimabeamSection from "@/components/landing/animabeam-section";
-import AnimatedBeam from "@/components/magicui/animated-beam";
 import Particles from "@/components/magicui/particles";
 import HeroSection from "@/components/landing/hero-section";
 import Hero2Section from "@/components/landing/hero2-section";
@@ -19,7 +18,6 @@ export default async function Page() {
       <Hero3Section />
       <Hero4Section />
       <AnimabeamSection />
-      <AnimatedBeam />
       <ClientSection />
       <SphereMask />
       <Client2Section />      
