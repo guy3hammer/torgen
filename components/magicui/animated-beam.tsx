@@ -5,7 +5,7 @@ import { RefObject, useEffect, useId, useState } from "react";
 
 import { cn } from "@/lib/utils";
 
-export interface AnimatedBeamProps {
+export default interface AnimatedBeamProps {
   className?: string;
   containerRef: RefObject<HTMLElement | null>; // Container ref
   fromRef: RefObject<HTMLElement | null>;
