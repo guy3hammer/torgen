@@ -1,5 +1,5 @@
 "use client";
-
+import { AuroraText } from "@/components/magicui/aurora-text";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { buttonVariants } from "@/components/ui/button";
