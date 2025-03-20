@@ -1,5 +1,4 @@
 "use client";
-import { AuroraText } from "@/components/magicui/aurora-text";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { buttonVariants } from "@/components/ui/button";
@@ -101,9 +100,9 @@ export function SiteHeader() {
     <>
       <header className="fixed left-0 top-0 z-50 w-full translate-y-[-1rem] animate-fade-in border-b opacity-0 backdrop-blur-[12px] [--animation-delay:600ms]">
         <div className="container flex h-[3.5rem] items-center justify-between">
-          <AuroraText><strong>
+           <TextShimmer className="inline-flex items-center justify-center"><strong>
             Torgen AI
-          </strong></AuroraText>
+          </strong></TextShimmer>
 
           <Link className="text-md flex items-center" href="/">
         <TextShimmer className="inline-flex items-center justify-center">
