@@ -1,6 +1,6 @@
 import { AuroraText } from "@/components/magicui/aurora-text";
 
-export function AuroraTextDemo() {
+export function AuroraSection() {
   return (
     <h1 className="text-4xl font-bold tracking-tighter md:text-5xl lg:text-7xl">
       Ship <AuroraText>beautiful</AuroraText>
