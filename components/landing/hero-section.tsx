@@ -25,8 +25,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Break free from proprietary lock-in with private
-	       <br className="hidden md:block" /> integrated <i>new gen</i> OSAI models and tools</p>
+	      Break free from proprietary lock-in
+	       <br className="hidden md:block" /> with integrated <i>private</i> OSAI models and tools</p>
         <br></br>
         <br></br>
           <div className="mt-6">
