@@ -1,4 +1,4 @@
-import { AuroraText } from "@/registry/magicui/aurora-text";
+import { AuroraText } from "@/components/magicui/aurora-text";
 
 export function AuroraTextDemo() {
   return (
