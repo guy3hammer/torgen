@@ -117,8 +117,8 @@ export default function AnimatedBeamDemo() {
 const Icons = {
   notion: () => (
     <svg
-      width="24"
-      height="24"
+      width="100"
+      height="100"
       viewBox="0 -960 960 960"
       fill="#1f1f1f"
       xmlns="http://www.w3.org/2000/svg"
