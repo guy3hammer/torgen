@@ -117,14 +117,14 @@ export default function AnimatedBeamDemo() {
 const Icons = {
   notion: () => (
     <svg
-      width="100"
-      height="100"
-      viewBox="0 0 100 100"
+      width="48"
+      height="48"
+      viewBox="0 -960 960 960"
       fill="#1f1f1f"
       xmlns="http://www.w3.org/2000/svg"
     >
       <path
-d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"
+d="M780-160H260q-24 0-42-18t-18-42v-640q0-24 18-42t42-18h348l232 232v468q0 24-18 42t-42 18ZM578-662v-198H260v640h520v-442H578ZM140-40q-24 0-42-18t-18-42v-619h60v619h498v60H140Zm120-820v198-198 640-640Z"
       />
     </svg>
   ),
