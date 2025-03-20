@@ -54,8 +54,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Connect <i>Anything</i> to <i>Everything</i>...
-        <br className="hidden md:block" /> <i>more</i> <u>securely</u>
+	Connect Anything to Everything</i>... <u><i>MORE SECURELY</i></u>
       </p>
 
 	    
