@@ -96,13 +96,16 @@ export function SiteHeader() {
     };
   }, [setHamburgerMenuIsOpen]);
 
+  
   return (
     <>
       <header className="fixed left-0 top-0 z-50 w-full translate-y-[-1rem] animate-fade-in border-b opacity-0 backdrop-blur-[12px] [--animation-delay:600ms]">
         <div className="container flex h-[3.5rem] items-center justify-between">
-           <TextShimmer className="inline-flex items-center justify-center"><strong>
+        <Link className="text-md flex items-center" href="/">
+           <TextShimmer><strong>
             Torgen AI
           </strong></TextShimmer>
+ </Link>
 
           <Link className="text-md flex items-center" href="/">
         <TextShimmer className="inline-flex items-center justify-center">
