@@ -36,9 +36,9 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<h3><TextShimmer className="inline-flex items-center justify-center">
-				<strong>OSAI Training Workshop</strong>
-				</TextShimmer></h3>
+				<TextShimmer className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
+				OSAI Training Workshop
+				</TextShimmer>
 				</div>
 				
 				<br></br>
@@ -48,9 +48,9 @@ export default function ClientSection() {
 				<br></br>
 			
 				<div>
-				<h3><TextShimmer className="inline-flex items-center justify-center">
+				<TextShimmer className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 				<strong>OSAI Strategy Consulting</strong>
-				</TextShimmer></h3>
+				</TextShimmer>
 				</div>
 				
 				<br></br>
@@ -60,9 +60,9 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<h3><TextShimmer className="inline-flex items-center justify-center">
+				<TextShimmer className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 				<strong>OSAI Security Assessment</strong>
-				</TextShimmer></h3>
+				</TextShimmer>
 				</div>
 				
 				<br></br>
@@ -72,9 +72,9 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<h3><TextShimmer className="inline-flex items-center justify-center">
+				<TextShimmer className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 				<strong>OSAI Project Consulting</strong>
-				</TextShimmer></h3>
+				</TextShimmer>
 				</div>
 				
 				<br></br>
@@ -84,9 +84,9 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<h3><TextShimmer className="inline-flex items-center justify-center">
+				<TextShimmer className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 				<strong>OSAI Innovation Center</strong>
-				</TextShimmer></h3>
+				</TextShimmer>
 				</div>
 				
 				<br></br>
