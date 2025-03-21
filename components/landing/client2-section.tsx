@@ -19,7 +19,7 @@ export default function ClientSection() {
             <HyperText className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
 		    World Class Resources</HyperText>
 
-
+<div>
 const avatars = [
   {
     imageUrl: "https://avatars.githubusercontent.com/u/16860528",
@@ -50,8 +50,7 @@ const avatars = [
 export function AvatarCirclesDemo() {
   return <AvatarCircles numPeople={99} avatarUrls={avatars} />;
 }
-
-
+</div>
 		
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
