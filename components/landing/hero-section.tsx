@@ -114,7 +114,14 @@ export default function HeroSection() {
                   src={'/protectai-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
-              </li>		    
+              </li>	
+
+              <li>
+                <img
+                  src={'/adrotoolbox-logo.svg'}
+                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
+                />
+              </li>
 		    
             </ul>
           </div>
