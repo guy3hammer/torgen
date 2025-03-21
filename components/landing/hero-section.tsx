@@ -119,8 +119,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Secure your data and equip your team with
-        <br className="hidden md:block" /> no-code workflow automations at 20x lower cost
+	Secure your data and equip your team with no-code
+        <br className="hidden md:block" /> AI workflow automations at 20x lower cost
       </p>
 		    
       <div
