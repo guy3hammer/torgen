@@ -1,4 +1,4 @@
-import HyperText from "@/components/magicui/hyper-text";
+import { HyperText } from "@/components/magicui/hyper-text";
 import TextShimmer from "@/components/magicui/text-shimmer";
 
 export default function ClientSection() {
