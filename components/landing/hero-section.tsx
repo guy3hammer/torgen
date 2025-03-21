@@ -17,7 +17,7 @@ export default function HeroSection() {
       className="relative mx-auto mt-32 max-w-[80rem] px-6 text-center md:px-8"
     >
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
-        <span><AuroraText><strong>Open Source AI</strong>strong></></AuroraText></span>
+        <span><AuroraText><strong>Open Source AI</strong></AuroraText></span>
         <br className="hidden md:block" /> is Changing the Game
       </h1>
 
