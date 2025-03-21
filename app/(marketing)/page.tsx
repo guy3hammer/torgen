@@ -7,6 +7,7 @@ import Hero4Section from "@/components/landing/hero4-section";
 import ClientSection from "@/components/landing/client-section";
 import { SphereMask } from "@/components/magicui/sphere-mask";
 import Client2Section from "@/components/landing/client2-section";
+import Client3Section from "@/components/landing/client3-section";
 import CallToActionSection from "@/components/landing/cta-section";
 import AvatarsSection from "@/components/landing/avatars-section";
 
@@ -22,6 +23,7 @@ export default async function Page() {
       <ClientSection />
       <SphereMask />
       <Client2Section />
+      <Client3Section />
       <AvatarsSection />
       <CallToActionSection />
       <Particles
