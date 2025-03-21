@@ -1,4 +1,4 @@
-import { AvatarCircles } from "@/registry/magicui/avatar-circles";
+import { AvatarCircles } from "@/components/magicui/avatar-circles";
 import { HyperText } from "@/components/magicui/hyper-text";
 import TextShimmer from "@/components/magicui/text-shimmer";
 
