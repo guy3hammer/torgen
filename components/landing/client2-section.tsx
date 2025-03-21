@@ -72,7 +72,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="inline-flex items-center justify-center">
+				<h3><TextShimmer className="inline-flex items-center justify-center">
 				<strong>OSAI Project Consulting</strong>
 				</TextShimmer></h3>
 				</div>
@@ -84,7 +84,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="inline-flex items-center justify-center">
+				<h3><TextShimmer className="inline-flex items-center justify-center">
 				<strong>OSAI Innovation Center</strong>
 				</TextShimmer></h3>
 				</div>
