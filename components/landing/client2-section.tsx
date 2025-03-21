@@ -20,7 +20,7 @@ export default function ClientSection() {
 		
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by a proven track record for innovation spanning finance, healthcare, 
+            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by innovation track records spanning finance, healthcare, 
             manufacturing, logistics, retail/e-comm, digital media and SaaS
 			</p>
 
