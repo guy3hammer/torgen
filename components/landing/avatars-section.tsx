@@ -31,7 +31,7 @@ const avatars = [
 export default function AvatarCirclesDemo() {
   return ( 
     <div
-      className="relative flex h-[300px] w-full items-center justify-center overflow-hidden p-10">
+      className="w-full items-center justify-center overflow-hidden p-10">
       <AvatarCircles numPeople={99} avatarUrls={avatars} />;
       </div>
     )
