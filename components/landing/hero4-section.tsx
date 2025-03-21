@@ -52,8 +52,9 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-  <h2><HyperText>Connect Anything to Everything</HyperText></h2>
-	    
+  <h2><HyperText>C o n n e c t   A n y t h i n g   to   E v e r y t h i n g</HyperText></h2>
+        <br></br>
+        <br></br>	    
     </section>
   );
 }
