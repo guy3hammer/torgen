@@ -36,7 +36,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="text-5xl font-bold tracking-tight sm:text-6xl">
+				<TextShimmer className="text-4xl font-bold tracking-tight sm:text-6xl">
 				OSAI Training Workshop
 				</TextShimmer>
 				</div>
@@ -48,7 +48,7 @@ export default function ClientSection() {
 				<br></br>
 			
 				<div>
-				<TextShimmer className="text-5xl font-bold tracking-tight sm:text-6xl">
+				<TextShimmer className="text-4xl font-bold tracking-tight sm:text-6xl">
 				OSAI Strategy Consulting
 				</TextShimmer>
 				</div>
@@ -60,7 +60,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="text-5xl font-bold tracking-tight sm:text-6xl">
+				<TextShimmer className="text-4xl font-bold tracking-tight sm:text-6xl">
 				OSAI Security Assessment
 				</TextShimmer>
 				</div>
@@ -72,7 +72,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="text-5xl font-bold tracking-tight sm:text-6xl">
+				<TextShimmer className="text-4xl font-bold tracking-tight sm:text-6xl">
 				OSAI Project Consulting
 				</TextShimmer>
 				</div>
@@ -84,7 +84,7 @@ export default function ClientSection() {
 				<br></br>
 				
 				<div>
-				<TextShimmer className="text-5xl font-bold tracking-tight sm:text-6xl">
+				<TextShimmer className="text-4xl font-bold tracking-tight sm:text-6xl">
 				OSAI Innovation Center
 				</TextShimmer>
 				</div>
