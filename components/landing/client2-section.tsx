@@ -10,7 +10,7 @@ export default function ClientSection() {
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
 
           <h4 className="text-xl font-bold tracking-tight text-black dark:text-white">
-            <i>Why Torgen?</i>
+            <i>Why Torgen</i>
           </h4>
 		
 	
