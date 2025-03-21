@@ -1,5 +1,6 @@
 "use client";
 
+import { HyperText } from "@/components/magicui/hyper-text";
 import { BorderBeam } from "@/components/magicui/border-beam";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { Button } from "@/components/ui/button";
@@ -45,18 +46,14 @@ export default function HeroSection() {
           />
         </div>
 	</div>       
-
-
-  <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
         <br></br>
         <br></br>
         <br></br>
         <br></br>
         <br></br>
         <br></br>
-	Connect <i>Anything</i> to <i>Everything</i>... 
-	  <br className="hidden md:block" /> <u>MORE SECURELY</u>
-      </p>    
+  <h2><HyperText>Connect Anything to Everything</HyperText></h2>
+	    
     </section>
   );
 }
