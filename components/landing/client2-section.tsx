@@ -37,7 +37,7 @@ export default function ClientSection() {
 				
 				<div>
 				<h3><TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Training Workshop</strong></h2></span>
+				<strong>OSAI Training Workshop</strong>
 				</TextShimmer></h3>
 				</div>
 				
@@ -49,7 +49,7 @@ export default function ClientSection() {
 			
 				<div>
 				<h3><TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Strategy Consulting</strong></h2></span>
+				<strong>OSAI Strategy Consulting</strong>
 				</TextShimmer></h3>
 				</div>
 				
@@ -61,7 +61,7 @@ export default function ClientSection() {
 				
 				<div>
 				<h3><TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Security Assessment</strong></h2></span>
+				<strong>OSAI Security Assessment</strong>
 				</TextShimmer></h3>
 				</div>
 				
@@ -73,7 +73,7 @@ export default function ClientSection() {
 				
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Project Consulting</strong></h2></span>
+				<strong>OSAI Project Consulting</strong>
 				</TextShimmer></h3>
 				</div>
 				
@@ -85,7 +85,7 @@ export default function ClientSection() {
 				
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
-				<span><h2><strong>OSAI Innovation Center</strong></h2></span>
+				<strong>OSAI Innovation Center</strong>
 				</TextShimmer></h3>
 				</div>
 				
