@@ -14,9 +14,10 @@ export default function ClientSection() {
             Torgen AI can help
           </h4>
 		
-		<h2 className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
-            <HyperText>World Class Resources</HyperText>
-			</h2>
+	
+            <HyperText className="text-5xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
+		    World Class Resources</HyperText>
+		
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
             Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by a proven track record for innovation spanning finance, healthcare, 
