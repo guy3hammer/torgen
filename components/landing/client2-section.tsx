@@ -1,6 +1,4 @@
 import { HyperText } from "@/components/magicui/hyper-text";
-import { AvatarCircles } from "@/components/magicui/avatar-circles";
-
 
 export default function ClientSection() {
   return (
