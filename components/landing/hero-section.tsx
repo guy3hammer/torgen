@@ -25,8 +25,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Secure your data and escape lock-in
-	       <br className="hidden md:block" /> by adopting an OSAI-first strategy</p>
+	      Secure your data, escape lock-in, and accelerate
+	       <br className="hidden md:block" /> your roadmap by adopting an OSAI-first strategy</p>
         <br></br>
         <br></br>
           <div className="mt-6">
