@@ -8,6 +8,7 @@ import ClientSection from "@/components/landing/client-section";
 import { SphereMask } from "@/components/magicui/sphere-mask";
 import Client2Section from "@/components/landing/client2-section";
 import CallToActionSection from "@/components/landing/cta-section";
+import AvatarsSection from "@/components/landing/avatars-section";
 
 
 export default async function Page() {
@@ -20,7 +21,8 @@ export default async function Page() {
       <AnimabeamSection />
       <ClientSection />
       <SphereMask />
-      <Client2Section />      
+      <Client2Section />
+      <AvatarsSection />
       <CallToActionSection />
       <Particles
         className="absolute inset-0 -z-10"
