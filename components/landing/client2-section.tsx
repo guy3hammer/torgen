@@ -11,7 +11,7 @@ export default function ClientSection() {
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
 
           <h4 className="text-xl font-bold tracking-tight text-black dark:text-white">
-            Torgen AI can help
+            <i>How Torgen Can Help</i>
           </h4>
 		
 	
@@ -29,16 +29,16 @@ export default function ClientSection() {
 			<br></br>
 			<br></br>
 			<h4 className="text-xl font-bold tracking-tight text-black dark:text-white">
-            Flexible Solutions for Companies of All Sizes
+            Flexible Solutions for Teams of All Sizes
 			</h4>
 
 				<br></br>
 				<br></br>
 				
 				<div>
-				<TextShimmer className="inline-flex items-center justify-center">
+				<h3><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>OSAI Training Workshop</strong></h2></span>
-				</TextShimmer>
+				</TextShimmer></h3>
 				</div>
 				
 				<br></br>
@@ -48,9 +48,9 @@ export default function ClientSection() {
 				<br></br>
 			
 				<div>
-				<TextShimmer className="inline-flex items-center justify-center">
+				<h3><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>OSAI Strategy Consulting</strong></h2></span>
-				</TextShimmer>
+				</TextShimmer></h3>
 				</div>
 				
 				<br></br>
@@ -59,9 +59,10 @@ export default function ClientSection() {
 				<br></br>
 				<br></br>
 				
-				<div><TextShimmer className="inline-flex items-center justify-center">
+				<div>
+				<h3><TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>OSAI Security Assessment</strong></h2></span>
-				</TextShimmer>
+				</TextShimmer></h3>
 				</div>
 				
 				<br></br>
@@ -73,7 +74,7 @@ export default function ClientSection() {
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>OSAI Project Consulting</strong></h2></span>
-				</TextShimmer>
+				</TextShimmer></h3>
 				</div>
 				
 				<br></br>
@@ -85,7 +86,7 @@ export default function ClientSection() {
 				<div>
 				<TextShimmer className="inline-flex items-center justify-center">
 				<span><h2><strong>OSAI Innovation Center</strong></h2></span>
-				</TextShimmer>
+				</TextShimmer></h3>
 				</div>
 				
 				<br></br>
