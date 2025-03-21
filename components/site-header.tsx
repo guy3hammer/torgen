@@ -109,8 +109,8 @@ export function SiteHeader() {
 
           <Link className="text-md flex items-center" href="/">
         <TextShimmer className="inline-flex items-center justify-center">
-          <span>✨ Book a Call</span>{" "}
-          <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
+          <span><strong>✨ Book a Call</strong></span>{" "}
+          <ArrowRightIcon className="ml-1 size-4 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
         </TextShimmer>
               
             </Link>
@@ -132,7 +132,7 @@ export function SiteHeader() {
         >
           <div className="container flex h-[3.5rem] items-center justify-between">
             <Link className="text-md flex items-center" href="/">
-              Magic UI
+              Torgen AI
             </Link>
 
             <button
