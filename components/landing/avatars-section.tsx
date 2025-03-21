@@ -27,6 +27,6 @@ const avatars = [
   },
 ];
 
-export function AvatarCirclesDemo() {
+export default function AvatarCirclesDemo() {
   return <AvatarCircles numPeople={99} avatarUrls={avatars} />;
 }
