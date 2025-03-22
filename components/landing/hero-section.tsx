@@ -147,8 +147,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Equip your team with integrated <i>private</i> new-gen OSAI models
-        <br className="hidden md:block" /> and no-code AI workflow automations at 20x lower cost
+	Equip your team with <i>private</i> OSAI models and tools
+        <br className="hidden md:block" /> to automate workflows for pennies on the dollar
       </p>
 		    
       <div
