@@ -147,8 +147,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	Equip your team with <i>private</i> OSAI models and tools
-        <br className="hidden md:block" /> to automate workflows for pennies on the dollar
+	Equip your team with <i>private</i> OSAI models and workflow
+        <br className="hidden md:block" /> automation tools for pennies on the dollar
       </p>
 		    
       <div
