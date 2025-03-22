@@ -9,9 +9,9 @@ export function SiteFooter() {
 	          <img
            		src={'/torgen-ai-logo.png'} 
         	  />
-
+<br></br>
             <p className="max-w-xs">Everyone wins with Open Source AI</p>
-
+<br></br>
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             Copyright © {new Date().getFullYear()}{" "}
             <Link href="/" className="cursor-pointer">
