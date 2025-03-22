@@ -4,14 +4,16 @@ import Link from "next/link";
 export function SiteFooter() {
   return (
     <footer>
-      <div className="h-screen flex items-center justify-center">
+      <div className="flex items-center justify-center">
 
 	          <img
            		src={'/torgen-ai-logo.png'} 
         	  />
+            </div>
 <br></br>
-            <p className="max-w-xs">Everyone wins with Open Source AI</p>
+<div className="text-xl flex items-center justify-center">Accelerate Your Roadmap: Join the Open Source AI Revolution</div>
 <br></br>
+<div className="flex items-center justify-center">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             Copyright © {new Date().getFullYear()}{" "}
             <Link href="/" className="cursor-pointer">
@@ -19,6 +21,10 @@ export function SiteFooter() {
             </Link>
             . All Rights Reserved.
           </span>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
         </div>
       {/*   <SiteBanner /> */}
     </footer>

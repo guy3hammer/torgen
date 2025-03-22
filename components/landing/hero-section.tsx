@@ -25,8 +25,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Secure your data, escape lock-in, and accelerate
-	       <br className="hidden md:block" /> your roadmap by adopting an OSAI-first strategy</p>
+	      Secure your data, escape lock-in, and boost your competitive
+	       <br className="hidden md:block" /> edge by adopting an <i>OSAI-first</i> strategy</p>
         <br></br>
         <br></br>
           <div className="mt-6">
@@ -139,16 +139,15 @@ export default function HeroSection() {
 		    
             </ul>
           </div>
-
-      <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-	Equip your team with <i>private</i> OSAI models and workflow
-        <br className="hidden md:block" /> automation tools for pennies on the dollar
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+      <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]"
+      >Accelerate your roadmap: Equip your team with <i>private</i> OSAI models
+        <br className="hidden md:block" />  and no-code automation tools for pennies on the dollar
       </p>
 		    
       <div

@@ -178,9 +178,7 @@ export default function CallToActionSection() {
                 <h1 className="text-3xl font-bold lg:text-4xl">
                   Tired of subsidizing proprietary AI?
                 </h1>
-                <p className="mt-2">
-                  Join the Rebellion
-                </p>
+                <p className="mt-2">Get the Open Source AI edge on your competitors</p>
                 <Link
                   href="#"
                   className={cn(
@@ -191,7 +189,7 @@ export default function CallToActionSection() {
                     "group mt-4 rounded-[2rem] px-6"
                   )}
                 >
-                  Book Free OSAI Consultation Now
+                  Book Your Free Consultation Now
                   <ChevronRight className="ml-1 size-4 transition-all duration-300 ease-out group-hover:translate-x-1" />
                 </Link>
               </div>

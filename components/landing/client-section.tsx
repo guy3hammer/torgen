@@ -6,6 +6,7 @@ export default function ClientSection() {
     >
       <div className="py-14">
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
+          <p>4000+ integrations</p>
 
           <br></br>
         
