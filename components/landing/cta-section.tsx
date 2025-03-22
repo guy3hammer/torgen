@@ -175,10 +175,9 @@ export default function CallToActionSection() {
                 <HeartHandshake className="mx-auto size-16 text-black dark:text-white lg:size-24" />
               </div>
               <div className="z-10 mt-4 flex flex-col items-center text-center text-primary">
-                <h1 className="text-3xl font-bold lg:text-4xl">
-                  Tired of subsidizing proprietary AI?
+                <h1 className="text-3xl font-bold lg:text-4xl"
+                >Accelerate Your Roadmap
                 </h1>
-                <p className="mt-2">Get the Open Source AI edge on your competitors</p>
                 <Link
                   href="#"
                   className={cn(

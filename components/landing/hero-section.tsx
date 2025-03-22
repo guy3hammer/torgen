@@ -16,6 +16,8 @@ export default function HeroSection() {
       id="hero"
       className="relative mx-auto mt-32 max-w-[80rem] px-6 text-center md:px-8"
     >
+      <p className="text-grey">Tired of subsidizing proprietary AI?</p>
+      <br></br>
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
         <span><strong><AuroraText>Open Source AI</AuroraText></strong></span>
         <br className="hidden md:block" /> is Changing the Game
@@ -25,8 +27,9 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-	      Secure your data, escape lock-in, and boost your competitive
-	       <br className="hidden md:block" /> edge by adopting an <i>OSAI-first</i> strategy</p>
+
+        Secure your data, escape lock-in, and leapfrog competitors
+	       <br className="hidden md:block" /> by embracing an <i>OSAI-first</i> strategy</p>
         <br></br>
         <br></br>
           <div className="mt-6">
@@ -128,15 +131,7 @@ export default function HeroSection() {
                   src={'/aigoat-logo.svg'}
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
-              </li>
-
-              <li>
-                <img
-                  src={'/wazuh-logo.svg'}
-                  className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
-                />
-              </li>
-		    
+              </li>		    
             </ul>
           </div>
           <br></br>
@@ -146,7 +141,8 @@ export default function HeroSection() {
           <br></br>
           <br></br>
       <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]"
-      >Accelerate your roadmap: Equip your team with <i>private</i> OSAI models
+      ><strong>Accelerate Your Roadmap</strong><br></br>
+      Equip your team with <i>private</i> OSAI models
         <br className="hidden md:block" />  and no-code automation tools for pennies on the dollar
       </p>
 		    
