@@ -31,7 +31,10 @@ export default function ClientSection() {
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
 		
               	<li className="h-200 w-100">
-				  <MagicCard><br></br>
+				  <MagicCard>
+				<img src={'/ai-training-gif.gif'} 
+        	  />
+					  <br></br>
 				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
 				OSAI Training Workshop
 				</TextShimmer>
