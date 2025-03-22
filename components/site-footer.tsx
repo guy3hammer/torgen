@@ -4,7 +4,7 @@ import Link from "next/link";
 export function SiteFooter() {
   return (
     <footer>
-      <div className="center">
+      <div className="h-screen flex items-center justify-center">
 
 	          <img
            		src={'/torgen-ai-logo.png'} 
