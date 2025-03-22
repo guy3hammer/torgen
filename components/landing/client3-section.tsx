@@ -44,7 +44,10 @@ export default function ClientSection() {
 		</li>
 
 		<li className="h-200 w-100">
-		<MagicCard><br></br>
+		<MagicCard>
+		<img src={'/aitraining-sm.gif'} 
+        	  />
+			<br></br>
 		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
 				OSAI Training Workshop
 				</TextShimmer>
