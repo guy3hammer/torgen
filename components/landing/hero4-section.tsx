@@ -2,9 +2,6 @@
 
 import { HyperText } from "@/components/magicui/hyper-text";
 import { BorderBeam } from "@/components/magicui/border-beam";
-import TextShimmer from "@/components/magicui/text-shimmer";
-import { Button } from "@/components/ui/button";
-import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
 
@@ -52,7 +49,7 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-  <h2><HyperText>Connect Anything to Everything</HyperText></h2>
+  <h2><HyperText>Leapfrog Your Competitors</HyperText></h2>
         <br></br>
         <br></br>	    
     </section>
