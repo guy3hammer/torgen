@@ -13,8 +13,8 @@ export default function ClientSection() {
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
 
 			<p className="mt-6 text-xl leading-8 text-black/80 dark:text-white">
-            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by professionals with<br></br>
-			proven track records spanning finance, healthcare, manufacturing, logistics, digital media, e-comm and SaaS
+            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by professionals with proven<br></br>
+			track records spanning finance, healthcare, manufacturing, logistics, digital media, e-comm and SaaS
 			</p>
 
 			<br></br>
