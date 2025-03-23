@@ -32,7 +32,7 @@ export default function AvatarCirclesDemo() {
   return ( 
     <div
       className="relative flex h-[50px] w-full items-center justify-center overflow-hidden p-10">
-      <AvatarCircles numPeople={99} avatarUrls={avatars} />;
+      <AvatarCircles numPeople={99} avatarUrls={avatars} />
       </div>
     )
 }
