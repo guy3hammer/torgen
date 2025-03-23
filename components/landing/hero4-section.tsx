@@ -47,9 +47,8 @@ export default function HeroSection() {
         <br></br>
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
-  <h2><HyperText>Leapfrog Your Competitors</HyperText></h2>
+
+  <h2><HyperText>Leverage 4000+ Integrations</HyperText></h2>
         <br></br>
         <br></br>	    
     </section>

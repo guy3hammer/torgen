@@ -143,7 +143,7 @@ export default function HeroSection() {
       <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]"
       ><br></br>
       Equip your team with <i>private</i> OSAI models
-        <br className="hidden md:block" />  and no-code automation tools for pennies on the dollar
+        <br className="hidden md:block" />  and automation tools for pennies on the dollar
       </p>
 		    
       <div

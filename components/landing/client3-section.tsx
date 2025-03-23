@@ -30,114 +30,75 @@ export default function ClientSection() {
 			<div className="mt-6">
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
 		
+
+			<li className="h-200 w-100">
+		<MagicCard>
+		<img src={'/strategy3.gif'} 
+        	  />
+			<br></br>
+		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
+				Strategy Consulting
+				</TextShimmer>
+				<br></br>
+				<p><i>alignment with future state drivers, use case<br></br>
+				productivity/cost-savings analysis, roadmap</i></p><br></br></MagicCard>
+</li>
+
               	<li className="h-200 w-100">
 				  <MagicCard>
-				<img src={'/ai-training-gif.gif'} 
+				<img src={'/workshop.gif'} 
         	  />
 					  <br></br>
 				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Training Workshop
+				Hands-on Workshops
 				</TextShimmer>
 				<br></br>
 				<p><i>practical open source centric use case training for<br></br>
-				technical and non-technical audiences</i></p></MagicCard>
+				technical and non-technical audiences</i></p><br></br></MagicCard>
 		</li>
 
 		<li className="h-200 w-100">
 		<MagicCard>
-		<img src={'/aitraining-sm.gif'} 
+		<img src={'/cybersecurity2.gif'} 
         	  />
 			<br></br>
 		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Training Workshop
+		Security Assessments
 				</TextShimmer>
 				<br></br>
-				<p><i>practical open source centric use case training for<br></br>
-				technical and non-technical audiences</i></p></MagicCard>
+				<p><i>data security, identity/access, logging, governance,<br></br>
+				regulatory compliance, risk/gap analysis</i></p><br></br></MagicCard>
 </li>
+
+<li className="h-200 w-100">
+		<MagicCard>
+		<img src={'/aiproject.gif'} 
+        	  />
+			<br></br>
+		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
+		Project Consulting
+				</TextShimmer>
+				<br></br>
+				<p><i>mobile/ai-first app dev; predictive modeling;<br></br>
+				data viz; legacy code mod/re-arch, migration</i></p><br></br></MagicCard>
+</li>
+
+<li className="h-200 w-100">
+		<MagicCard>
+		<img src={'/innovation2.gif'} 
+        	  />
+			<br></br>
+		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
+		Innovation Center
+				</TextShimmer>
+				<br></br>
+				<p><i>private secure environment for OSAI model/tool<br></br>
+				provisioning, tuning, testing and prototyping</i></p><br></br></MagicCard>
+</li>
+
 </ul>
 </div>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
-
-			<MagicCard>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Training Workshop
-				</TextShimmer>
-				<br></br>
-				<p><span><i>practical open source centric use case training for</i></span></p>
-				<p><span><i>technical and non-technical audiences</i></span></p></MagicCard>			<MagicCard>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Training Workshop
-				</TextShimmer>
-				<br></br>
-				<p><span><i>practical open source centric use case training for</i></span></p>
-				<p><span><i>technical and non-technical audiences</i></span></p></MagicCard>
-				<br></br>
-				<br></br>
-				<br></br>
-				<br></br>
-				
-				<div>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Training Workshop
-				</TextShimmer>
-				</div>
-				
-				<br></br>
-				<p><span><i>practical open source centric use case training for</i></span></p>
-				<p><span><i>technical and non-technical audiences</i></span></p>
-				<br></br>
-				<br></br>
-			
-				<div>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Strategy Consulting
-				</TextShimmer>
-				</div>
-				
-				<br></br>
-				<p><span><i>alignment with future state drivers, use case</i></span></p>
-				<p><span><i>productivity/cost-savings analysis, roadmap</i></span></p>
-				<br></br>
-				<br></br>
-				
-				<div>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Security Assessment
-				</TextShimmer>
-				</div>
-				
-				<br></br>
-				<p><span><i>data security, identity/access, logging, governance,</i></span></p>
-				<p><span><i>regulatory compliance, risk/gap analysis</i></span></p>
-				<br></br>
-				<br></br>
-				
-				<div>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Project Consulting
-				</TextShimmer>
-				</div>
-				
-				<br></br>
-				<p><span><i>mobile/ai-first app dev; predictive modeling; data viz;</i></span></p>
-				<p><span><i>legacy code modernization, re-arch, re-platform, migration</i></span></p>
-				<br></br>
-				<br></br>
-				
-				<div>
-				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-				OSAI Innovation Center
-				</TextShimmer>
-				</div>
-				
-				<br></br>
-				<p><span><i>private high-performance environment for OSAI model/tool</i></span></p>
-				<p><span><i>provisioning, tuning, testing and use case prototyping</i></span></p>
 				<br></br>
 				<br></br>
 				
