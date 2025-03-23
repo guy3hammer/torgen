@@ -53,24 +53,11 @@ export default function ClientSection() {
 				Hands-on Workshops
 				</TextShimmer>
 				<br></br>
-				<p><i>practical open source centric use case training for<br></br>
-				technical and non-technical audiences</i></p><br></br></MagicCard>
+				<p><i>practical open source centric use case training<br></br>
+				for technical and non-technical audiences</i></p><br></br></MagicCard>
 		</li>
 
 		<li className="h-200 w-100">
-		<MagicCard>
-		<img src={'/cybersecurity2.gif'} 
-        	  />
-			<br></br>
-		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
-		Security Assessments
-				</TextShimmer>
-				<br></br>
-				<p><i>data security, identity/access, logging, governance,<br></br>
-				regulatory compliance, risk/gap analysis</i></p><br></br></MagicCard>
-</li>
-
-<li className="h-200 w-100">
 		<MagicCard>
 		<img src={'/aiproject.gif'} 
         	  />
@@ -82,6 +69,22 @@ export default function ClientSection() {
 				<p><i>mobile/ai-first app dev; predictive modeling;<br></br>
 				data viz; legacy code mod/re-arch, migration</i></p><br></br></MagicCard>
 </li>
+
+
+		<li className="h-200 w-100">
+		<MagicCard>
+		<img src={'/cybersecurity2.gif'} 
+        	  />
+			<br></br>
+		<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
+		Security Assessments
+				</TextShimmer>
+				<br></br>
+				<p><i>data security, identity/access, governance,<br></br>
+				regulatory compliance, risk/gap analysis</i></p><br></br></MagicCard>
+</li>
+
+
 
 <li className="h-200 w-100">
 		<MagicCard>
