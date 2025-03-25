@@ -137,7 +137,7 @@ export default function HeroSection() {
           <br></br>
           <br></br>
           <br></br>
-      <p className="mb-12 text-sm tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]"
+	<p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]"
       ><br></br>
       Equip your team with cutting-edge AI
         <br className="hidden md:block" /> use cases for pennies on the dollar
