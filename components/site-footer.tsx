@@ -13,7 +13,7 @@ export function SiteFooter() {
       </h1>
             </div>
 <br></br>
-<div className="text-xl flex items-center justify-center">Embrace the OSAI Revolution</div>
+<div className="text-xl flex items-center justify-center">Embrace the Revolution</div>
 <br></br>
 <div className="flex items-center justify-center">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
