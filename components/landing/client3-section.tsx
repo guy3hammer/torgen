@@ -45,7 +45,7 @@ export default function ClientSection() {
 				</TextShimmer>
 				<br></br>
 				<p><i>alignment with goals and core drivers,<br></br>
-				future state roadmap, use case triage</i></p><br></br></MagicCard>
+				use case triage, future state roadmap</i></p><br></br></MagicCard>
 </li>
 
               	<li className="h-200 w-100">
