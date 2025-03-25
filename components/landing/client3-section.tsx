@@ -1,6 +1,5 @@
 import { MagicCard } from "@/components/magicui/magic-card";
 
-import { HyperText } from "@/components/magicui/hyper-text";
 import TextShimmer from "@/components/magicui/text-shimmer";
 
 export default function ClientSection() {
@@ -13,7 +12,7 @@ export default function ClientSection() {
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
 
 			<p className="max-width: 400px mt-6 text-xl leading-8 text-black/80 dark:text-white">
-            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by professionals with proven track records spanning finance, healthcare, manufacturing, logistics, digital media, e-comm and SaaS
+            Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by professionals with proven track records spanning finance, healthcare, manufacturing, logistics, digital media, and SaaS
 			</p>
 
 			<br></br>
@@ -21,7 +20,8 @@ export default function ClientSection() {
 			<br></br>
 			<br></br>
 			<h4 className="text-xl font-bold tracking-tight text-black dark:text-white">
-            Flexible Solutions for Teams of All Sizes
+            Flexible Solutions <br />
+			for Teams of All Sizes
 			</h4>
 			<br></br>
 			<br></br>
@@ -31,6 +31,8 @@ export default function ClientSection() {
 		
 
 			<li className="h-200 w-100">
+
+
 		<MagicCard>
 		<img src={'/strategy3.gif'} 
         	  />
@@ -39,8 +41,8 @@ export default function ClientSection() {
 				Strategy Consulting
 				</TextShimmer>
 				<br></br>
-				<p><i>alignment with future state drivers, use case<br></br>
-				productivity/cost-savings analysis, roadmap</i></p><br></br></MagicCard>
+				<p><i>alignment with goals and core drivers,<br></br>
+				future state roadmap, use case triage</i></p><br></br></MagicCard>
 </li>
 
               	<li className="h-200 w-100">
@@ -52,7 +54,7 @@ export default function ClientSection() {
 				Hands-on Workshops
 				</TextShimmer>
 				<br></br>
-				<p><i>practical open source centric use case training<br></br>
+				<p><i>practical use-case specific training<br></br>
 				for technical and non-technical audiences</i></p><br></br></MagicCard>
 		</li>
 
@@ -66,7 +68,7 @@ export default function ClientSection() {
 				</TextShimmer>
 				<br></br>
 				<p><i>mobile/ai-first app dev; predictive modeling;<br></br>
-				data viz; legacy code mod/re-arch, migration</i></p><br></br></MagicCard>
+				data viz; legacy code re-arch, migration</i></p><br></br></MagicCard>
 </li>
 
 
@@ -94,7 +96,7 @@ export default function ClientSection() {
 		Innovation Center
 				</TextShimmer>
 				<br></br>
-				<p><i>private secure environment for OSAI model/tool<br></br>
+				<p><i>private secure hosting for OSAI model/tool<br></br>
 				provisioning, tuning, testing and prototyping</i></p><br></br></MagicCard>
 </li>
 
