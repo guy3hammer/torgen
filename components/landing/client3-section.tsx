@@ -12,7 +12,9 @@ export default function ClientSection() {
       <div className="py-14">
         <div className="mx-auto max-w-screen-xl px-4 md:px-8">
 
-			<p className="max-width: 400px mt-6 text-xl leading-8 text-black/80 dark:text-white">
+<p className="mb-12 text-lg tracking-tight text-gray-400 md:text-xl text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
+		
+			<p className="max-width: 400px mt-6 text-xl leading-8 text-gray-400">
             Torgen&apos;s <i>Open-Source-first</i> approach to AI transformation is grounded by professionals with proven track records spanning finance, healthcare, manufacturing, logistics, digital media, and SaaS
 			</p>
 
