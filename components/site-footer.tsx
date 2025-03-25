@@ -1,7 +1,9 @@
+"use client";
+
 import Link from "next/link";
-import Syncopate from 'next/font/google';
-import "@fontsource/syncopate";
 import { AuroraText } from "@/components/magicui/aurora-text";
+import { RetroGrid } from "@/components/magicui/retro-grid";
+
 
 
 export function SiteFooter() {
@@ -23,10 +25,8 @@ export function SiteFooter() {
             </Link>
             . All Rights Reserved.
           </span>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
+
+          <RetroGrid />
         </div>
       {/*   <SiteBanner /> */}
     </footer>

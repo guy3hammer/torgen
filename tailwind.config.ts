@@ -154,6 +154,14 @@ const config = {
   				to: {
   					'background-position': '0% 0%'
   				}
+  			},
+  			grid: {
+  				'0%': {
+  					transform: 'translateY(-50%)'
+  				},
+  				'100%': {
+  					transform: 'translateY(0)'
+  				}
   			}
   		},
   		animation: {
@@ -166,7 +174,8 @@ const config = {
   			shimmer: 'shimmer 8s infinite',
   			marquee: 'marquee var(--duration) infinite linear',
   			'marquee-vertical': 'marquee-vertical var(--duration) linear infinite',
-  			shine: 'shine var(--duration) infinite linear'
+  			shine: 'shine var(--duration) infinite linear',
+  			grid: 'grid 15s linear infinite'
   		}
   	}
   },
