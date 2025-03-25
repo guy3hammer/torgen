@@ -99,7 +99,7 @@ export default function ClientSection() {
 		Innovation Center
 				</TextShimmer>
 				<br></br>
-				<p><i>private secure hosting for OSAI model/tool<br></br>
+				<p><i>secure private hosting for OSAI model/tool<br></br>
 				provisioning, tuning, testing and prototyping</i></p><br></br></MagicCard>
 </li>
 
