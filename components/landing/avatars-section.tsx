@@ -2,8 +2,8 @@ import { AvatarCircles } from "@/components/magicui/avatar-circles";
 
 const avatars = [
   {
-    imageUrl: "https://avatars.githubusercontent.com/u/16860528",
-    profileUrl: "https://github.com/dillionverma",
+    imageUrl: "https://docs.google.com/drawings/d/e/2PACX-1vSGdYzCFHhQRJwmbIjFxJQOllYVZI6rE-ZLtPSS-x1ZrTY3b9QgUZAHo3aVW9w0ccYPZkF22ux5IFdu/pub?w=50&h=50",
+    profileUrl: "Odin",
   },
   {
     imageUrl: "https://avatars.githubusercontent.com/u/20110627",
