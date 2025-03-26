@@ -162,6 +162,19 @@ const config = {
   				'100%': {
   					transform: 'translateY(0)'
   				}
+  			},
+  			meteor: {
+  				'0%': {
+  					transform: 'rotate(var(--angle)) translateX(0)',
+  					opacity: '1'
+  				},
+  				'70%': {
+  					opacity: '1'
+  				},
+  				'100%': {
+  					transform: 'rotate(var(--angle)) translateX(-500px)',
+  					opacity: '0'
+  				}
   			}
   		},
   		animation: {
@@ -175,7 +188,8 @@ const config = {
   			marquee: 'marquee var(--duration) infinite linear',
   			'marquee-vertical': 'marquee-vertical var(--duration) linear infinite',
   			shine: 'shine var(--duration) infinite linear',
-  			grid: 'grid 15s linear infinite'
+  			grid: 'grid 15s linear infinite',
+  			meteor: 'meteor 5s linear infinite'
   		}
   	}
   },

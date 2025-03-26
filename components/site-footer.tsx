@@ -1,5 +1,6 @@
 "use client";
 
+import { Meteors } from "@/components/magicui/meteors";
 import Link from "next/link";
 import { AuroraText } from "@/components/magicui/aurora-text";
 import { RetroGrid } from "@/components/magicui/retro-grid";
@@ -10,6 +11,7 @@ export function SiteFooter() {
   return (
     <footer>
       <div className="flex items-center justify-center">
+      <Meteors number={10} />
       <h1 className="bg-gradient-to-b from-[#ffd319] via-[#ff2975] to-[#8c1eff] bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
         <span><strong>Torgen AI</strong></span>
       </h1>
@@ -25,8 +27,8 @@ export function SiteFooter() {
             </Link>
             . All Rights Reserved.
           </span>
+<RetroGrid />
 
-          <RetroGrid />
         </div>
       {/*   <SiteBanner /> */}
     </footer>
