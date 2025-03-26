@@ -19,7 +19,7 @@ const avatars = [
   },
   {
     imageUrl: "https://docs.google.com/drawings/d/e/2PACX-1vRYTnoLWFLVbCoCgJz0NxGq6ph6ymI3PVfLYQ2hTeXJN3aeiWhg8C6Cb6m_I5xHvvzbm76ItI3uUOx4/pub?w=100&h=100",
-    profileUrl: "Emery",
+    profileUrl: "Yegor",
   }, 
   {
     imageUrl: "https://docs.google.com/dhttps://docs.google.com/drawings/d/e/2PACX-1vT0QxeVHJ8TAo8bGadYgiAEsxt3mS_W2639Ti6Oo_KoJ3-5j8ITP1Q4fTpSpvWquY4_3-BMUml2oTGb/pub?w=261&h=262rawings/d/e/2PACX-1vTBRLx8Ja2yyBiGVwz6abEWckHqC_K_LojjzwPrspytSywC-Ut5nkoigrTZNiFu-kCIpyQsyW874nTG/pub?w=200&h=199",
