@@ -10,6 +10,8 @@ import Client2Section from "@/components/landing/client2-section";
 import AvatarsSection from "@/components/landing/avatars-section";
 import Client3Section from "@/components/landing/client3-section";
 import CallToActionSection from "@/components/landing/cta-section";
+import { Meteors } from "@/components/magicui/meteors";
+
 
 
 export default async function Page() {
@@ -26,6 +28,7 @@ export default async function Page() {
       <AvatarsSection />
       <Client3Section />
       <CallToActionSection />
+      <Meteors number={10} />
       <Particles
         className="absolute inset-0 -z-10"
         quantity={50}
