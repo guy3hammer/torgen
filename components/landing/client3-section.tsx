@@ -50,7 +50,7 @@ export default function ClientSection() {
 
               	<li className="h-200 w-100">
 				  <MagicCard>
-				<img src={'/workshop.gif'} 
+				<img src={'/aiWorkshop3.gif'} 
         	  />
 					  <br></br>
 				<TextShimmer className="text-3xl font-bold tracking-tight sm:text-3xl">
