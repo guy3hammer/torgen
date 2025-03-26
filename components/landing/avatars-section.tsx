@@ -22,8 +22,8 @@ const avatars = [
     profileUrl: "Yegor",
   }, 
   {
-    imageUrl: "https://docs.google.com/dhttps://docs.google.com/drawings/d/e/2PACX-1vT0QxeVHJ8TAo8bGadYgiAEsxt3mS_W2639Ti6Oo_KoJ3-5j8ITP1Q4fTpSpvWquY4_3-BMUml2oTGb/pub?w=261&h=262rawings/d/e/2PACX-1vTBRLx8Ja2yyBiGVwz6abEWckHqC_K_LojjzwPrspytSywC-Ut5nkoigrTZNiFu-kCIpyQsyW874nTG/pub?w=200&h=199",
-    profileUrl: "Pat",
+    imageUrl: "https://docs.google.com/drawings/d/e/2PACX-1vS5PkiFh5s2lo0PqbDTgkAU4U12c-tIMYmvFaV_J2riJAUl21H3cfm3YvU6Mt8X2lJ-QMrujumkQBEr/pub?w=223&h=224",
+    profileUrl: "Carlos",
   },
   {
     imageUrl: "https://avatars.githubusercontent.com/u/https://docs.google.com/drawings/d/e/2PACX-1vQZ1S4iDsHp5EFzjpPpkSoPAfwYK6VbZoqVmgNgbuD6EGQqPXMqLjolgLM_f4WbC_5EvDpd25jhA8Or/pub?w=75&h=75",
