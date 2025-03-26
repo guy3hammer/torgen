@@ -15,6 +15,9 @@ export default function HeroSection() {
     >
       <p className="text-grey">Tired of subsidizing proprietary AI ?</p>
       <br></br>
+	    <span className="pointer-events-none z-10 whitespace-pre-wrap bg-gradient-to-b from-[#ffd319] via-[#ff2975] to-[#8c1eff] bg-clip-text text-center text-7xl font-bold leading-none tracking-tighter text-transparent">
+        Retro Grid
+      </span>
       <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
         <span><strong><AuroraText>Open Source AI</AuroraText></strong></span>
         <br className="hidden md:block" /> is Changing the Game
