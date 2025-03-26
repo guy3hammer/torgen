@@ -26,7 +26,7 @@ const avatars = [
     profileUrl: "Carlos",
   },
   {
-    imageUrl: "https://avatars.githubusercontent.com/u/https://docs.google.com/drawings/d/e/2PACX-1vQZ1S4iDsHp5EFzjpPpkSoPAfwYK6VbZoqVmgNgbuD6EGQqPXMqLjolgLM_f4WbC_5EvDpd25jhA8Or/pub?w=75&h=75",
+    imageUrl: "https://docs.google.com/drawings/d/e/2PACX-1vSYk4clufW4MJgu9VFtPQ7TDHiYxMWbw6Neat7r7nWSt__CaZ9m5ZghoUznH8_mppIkwrEyaItBLhqk/pub?w=338&h=343",
     profileUrl: "Nick",
   },
   {
