@@ -29,7 +29,7 @@ export default async function Page() {
       <Client3Section />
       <CallToActionSection />
 
-      <Meteors number={10} />
+      <Meteors number={5} />
       <Particles
         className="absolute inset-0 -z-10"
         quantity={50}
