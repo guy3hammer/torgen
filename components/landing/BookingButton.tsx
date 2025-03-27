@@ -29,8 +29,7 @@ const BookCallBtn: FunctionComponent<BookCallBtnProps> = ({ className }) => {
       <button onClick={() => setShowModel(prev => !prev)}>
 
       <TextShimmer className="inline-flex items-center justify-center">
-<span><strong>✨ Book Free Consultation</strong></span>{" "}
-<ArrowRightIcon className="ml-1 size-4 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
+<span><strong>✨Book a Call 📞</strong></span>{" "}
 </TextShimmer>
          
       </button>
