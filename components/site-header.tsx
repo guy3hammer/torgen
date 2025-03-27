@@ -1,4 +1,5 @@
 "use client";
+import BookCallBtn from "@/components/landing/BookingButton";
 import TextShimmer from "@/components/magicui/text-shimmer";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { buttonVariants } from "@/components/ui/button";
@@ -107,13 +108,11 @@ export function SiteHeader() {
           </strong></TextShimmer>
  </Link>
 
-          <Link className="text-md flex items-center" href="/">
-        <TextShimmer className="inline-flex items-center justify-center">
-          <span><strong>✨ Book a Call</strong></span>{" "}
-          <ArrowRightIcon className="ml-1 size-4 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
-        </TextShimmer>
+ 
+          <BookCallBtn /> 
+
               
-            </Link>
+  
          
         </div>
       </header>

@@ -28,6 +28,7 @@ export default async function Page() {
       <AvatarsSection />
       <Client3Section />
       <CallToActionSection />
+
       <Meteors number={10} />
       <Particles
         className="absolute inset-0 -z-10"

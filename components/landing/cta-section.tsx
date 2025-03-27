@@ -1,5 +1,7 @@
 "use client";
 
+import BookCallBtn from "@/components/landing/BookingButton";
+
 import Marquee from "@/components/magicui/marquee";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -178,8 +180,9 @@ export default function CallToActionSection() {
                 <h1 className="text-3xl font-bold lg:text-4xl"
                 >Accelerate Your Roadmap
                 </h1>
-                <Link
-                  href="#"
+                <br />
+                <br />
+                <div
                   className={cn(
                     buttonVariants({
                       size: "lg",
@@ -188,9 +191,11 @@ export default function CallToActionSection() {
                     "group mt-4 rounded-[2rem] px-6"
                   )}
                 >
-                  Book Your Free Consultation Now
-                  <ChevronRight className="ml-1 size-4 transition-all duration-300 ease-out group-hover:translate-x-1" />
-                </Link>
+              <BookCallBtn />
+                
+                </div>
+  
+
               </div>
               <div className="absolute inset-0 -z-10 rounded-full  bg-backtround opacity-40 blur-xl dark:bg-background" />
             </div>
@@ -201,3 +206,4 @@ export default function CallToActionSection() {
     </section>
   );
 }
+
