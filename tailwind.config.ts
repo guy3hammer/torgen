@@ -175,6 +175,28 @@ const config = {
   					transform: 'rotate(var(--angle)) translateX(-500px)',
   					opacity: '0'
   				}
+  			},
+  			aurora: {
+  				'0%': {
+  					backgroundPosition: '0% 50%',
+  					transform: 'rotate(-5deg) scale(0.9)'
+  				},
+  				'25%': {
+  					backgroundPosition: '50% 100%',
+  					transform: 'rotate(5deg) scale(1.1)'
+  				},
+  				'50%': {
+  					backgroundPosition: '100% 50%',
+  					transform: 'rotate(-3deg) scale(0.95)'
+  				},
+  				'75%': {
+  					backgroundPosition: '50% 0%',
+  					transform: 'rotate(3deg) scale(1.05)'
+  				},
+  				'100%': {
+  					backgroundPosition: '0% 50%',
+  					transform: 'rotate(-5deg) scale(0.9)'
+  				}
   			}
   		},
   		animation: {
@@ -189,7 +211,8 @@ const config = {
   			'marquee-vertical': 'marquee-vertical var(--duration) linear infinite',
   			shine: 'shine var(--duration) infinite linear',
   			grid: 'grid 15s linear infinite',
-  			meteor: 'meteor 5s linear infinite'
+  			meteor: 'meteor 5s linear infinite',
+  			aurora: 'aurora 8s ease-in-out infinite alternate'
   		}
   	}
   },
