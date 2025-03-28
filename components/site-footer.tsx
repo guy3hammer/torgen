@@ -12,8 +12,8 @@ export function SiteFooter() {
     <footer>
 
       <div className="flex items-center justify-center">
-      <h1 className="bg-gradient-to-b from-[#ffd319] via-[#ff2975] to-[#8c1eff] bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
-        <span><strong>Torgen AI</strong></span>
+      <h1 className="bg-gradient-to-br dark:from-white from-black from-30% dark:to-white/40 to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent text-balance sm:text-6xl md:text-7xl lg:text-8xl translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]"
+      ><span><AuroraText><strong>Torgen AI</strong></AuroraText></span>
       </h1>
             </div>
 <br></br>
